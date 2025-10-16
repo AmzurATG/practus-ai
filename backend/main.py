@@ -40,7 +40,7 @@ load_dotenv()
 
 # Configuration
 SECRET_KEY = os.getenv("SECRET_KEY", "practus-secret-key-change-in-production")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyDBvJS0vbk4fT-ov3hSOsOoIONxFomrGOk")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "practus-gemini-key-change-in-production")
 UPLOAD_DIR = "uploads"
 
 # Supabase Configuration
