@@ -1,0 +1,412 @@
+{
+  "funnel_summary": {
+    "overall_conversion_rate": 3.1,
+    "total_active_deals": 3069,
+    "avg_sales_cycle_days": 198.0,
+    "top_bottleneck": "Prospect \u2192 Client Won (0.2% conversion)",
+    "stuck_deals_count": 20,
+    "total_stuck_value": 144094000.0,
+    "analysis_methods": {
+      "conversion_analysis": "Statistical Funnel Analysis",
+      "duration_analysis": "Time Series Analysis with Percentiles",
+      "bottleneck_detection": "Rule-based Risk Scoring",
+      "stuck_deal_identification": "Time-based Threshold Analysis",
+      "segmentation_analysis": "Multi-dimensional Data Grouping",
+      "ai_insights": "Google Gemini LLM with Business Context"
+    }
+  },
+  "conversion_metrics": {
+    "overall_conversion_rate": 3.1,
+    "total_leads": 3069,
+    "total_won": 96,
+    "total_lost": 589,
+    "stage_conversions": [
+      {
+        "transition": "Walk-through Scheduled/ Conducted \u2192 Client Won",
+        "rate": 3.8,
+        "deals_moved": 6,
+        "deals_total": 157,
+        "deals_dropped": 151
+      },
+      {
+        "transition": "Proposal Sent \u2192 Client Lost",
+        "rate": 18.6,
+        "deals_moved": 41,
+        "deals_total": 221,
+        "deals_dropped": 180
+      },
+      {
+        "transition": "Need Identification \u2192 Client Lost",
+        "rate": 19.6,
+        "deals_moved": 98,
+        "deals_total": 499,
+        "deals_dropped": 401
+      },
+      {
+        "transition": "Qualified Prospect \u2192 Client Lost",
+        "rate": 28.1,
+        "deals_moved": 71,
+        "deals_total": 253,
+        "deals_dropped": 182
+      },
+      {
+        "transition": "Prospect \u2192 Client Lost",
+        "rate": 10.5,
+        "deals_moved": 65,
+        "deals_total": 620,
+        "deals_dropped": 555
+      },
+      {
+        "transition": "Lead - Able to Contact \u2192 Client Lost",
+        "rate": 16.2,
+        "deals_moved": 133,
+        "deals_total": 820,
+        "deals_dropped": 687
+      },
+      {
+        "transition": "Proposal Sent \u2192 Client Won",
+        "rate": 10.0,
+        "deals_moved": 22,
+        "deals_total": 221,
+        "deals_dropped": 199
+      },
+      {
+        "transition": "Walk-through Scheduled/ Conducted \u2192 Client Lost",
+        "rate": 18.5,
+        "deals_moved": 29,
+        "deals_total": 157,
+        "deals_dropped": 128
+      },
+      {
+        "transition": "Negotiated Proposal Sent \u2192 Client Lost",
+        "rate": 25.0,
+        "deals_moved": 7,
+        "deals_total": 28,
+        "deals_dropped": 21
+      },
+      {
+        "transition": "Negotiated Proposal Sent \u2192 Client Won",
+        "rate": 28.6,
+        "deals_moved": 8,
+        "deals_total": 28,
+        "deals_dropped": 20
+      },
+      {
+        "transition": "Lead - Attempt to Contact \u2192 Client Won",
+        "rate": 0.7,
+        "deals_moved": 24,
+        "deals_total": 3240,
+        "deals_dropped": 3216
+      },
+      {
+        "transition": "Lead - Attempt to Contact \u2192 Client Lost",
+        "rate": 2.1,
+        "deals_moved": 68,
+        "deals_total": 3240,
+        "deals_dropped": 3172
+      },
+      {
+        "transition": "Qualified Prospect \u2192 Client Won",
+        "rate": 5.1,
+        "deals_moved": 13,
+        "deals_total": 253,
+        "deals_dropped": 240
+      },
+      {
+        "transition": "Prospect \u2192 Client Won",
+        "rate": 0.2,
+        "deals_moved": 1,
+        "deals_total": 620,
+        "deals_dropped": 619
+      },
+      {
+        "transition": "Rollback \u2192 Client Lost",
+        "rate": 2.5,
+        "deals_moved": 1,
+        "deals_total": 40,
+        "deals_dropped": 39
+      }
+    ],
+    "funnel_groups": {
+      "early_funnel": {
+        "conversion": 21.6,
+        "count": 3069,
+        "avg_duration": 297.9
+      },
+      "mid_funnel": {
+        "conversion": 80.8,
+        "count": 163,
+        "avg_duration": 64.2
+      },
+      "late_funnel": {
+        "conversion": 100.0,
+        "count": 685,
+        "avg_duration": 1.0
+      }
+    }
+  },
+  "early_stage_metrics": {
+    "contact_success_rate": 25.3,
+    "attempt_count": 3240,
+    "able_count": 820,
+    "aging_distribution": {
+      "fresh_0_7_days": 0,
+      "warm_8_30_days": 137,
+      "cold_31_90_days": 482,
+      "stale_91_180_days": 618,
+      "dead_180_plus_days": 5404
+    },
+    "revenue_by_age": {
+      "fresh_revenue": 0.0,
+      "warm_revenue": 54448002.0,
+      "cold_revenue": 351449605.0,
+      "stale_revenue": 529987683.5,
+      "dead_revenue": 3760759546.5
+    },
+    "total_revenue_at_risk": 4696644837.0,
+    "average_lead_age": 333.0,
+    "top_contactable_leads": [
+      {
+        "Deal ID": 655193000004759387,
+        "Deal Amount": 50000000.0,
+        "Lead_Age_Days": 236
+      },
+      {
+        "Deal ID": 655193000004759304,
+        "Deal Amount": 50000000.0,
+        "Lead_Age_Days": 236
+      },
+      {
+        "Deal ID": 655193000004259026,
+        "Deal Amount": 10000000.0,
+        "Lead_Age_Days": 259
+      },
+      {
+        "Deal ID": 655193000003054025,
+        "Deal Amount": 7500000.0,
+        "Lead_Age_Days": 343
+      },
+      {
+        "Deal ID": 655193000002907139,
+        "Deal Amount": 7500000.0,
+        "Lead_Age_Days": 359
+      },
+      {
+        "Deal ID": 655193000003618788,
+        "Deal Amount": 7200000.0,
+        "Lead_Age_Days": 296
+      },
+      {
+        "Deal ID": 655193000005509017,
+        "Deal Amount": 6700000.0,
+        "Lead_Age_Days": 197
+      },
+      {
+        "Deal ID": 655193000005451004,
+        "Deal Amount": 6000000.0,
+        "Lead_Age_Days": 202
+      },
+      {
+        "Deal ID": 655193000003618975,
+        "Deal Amount": 6000000.0,
+        "Lead_Age_Days": 296
+      },
+      {
+        "Deal ID": 655193000003317997,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 231
+      },
+      {
+        "Deal ID": 655193000004981109,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 228
+      },
+      {
+        "Deal ID": 655193000004596026,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 244
+      },
+      {
+        "Deal ID": 655193000004135199,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 268
+      },
+      {
+        "Deal ID": 655193000003955024,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 278
+      },
+      {
+        "Deal ID": 655193000003317027,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 320
+      },
+      {
+        "Deal ID": 655193000003317997,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 320
+      },
+      {
+        "Deal ID": 655193000004544008,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 250
+      },
+      {
+        "Deal ID": 655193000006703117,
+        "Deal Amount": 4800000.0,
+        "Lead_Age_Days": 121
+      },
+      {
+        "Deal ID": 655193000003838069,
+        "Deal Amount": 4500000.0,
+        "Lead_Age_Days": 285
+      },
+      {
+        "Deal ID": 655193000006612366,
+        "Deal Amount": 4200000.0,
+        "Lead_Age_Days": 128
+      }
+    ],
+    "top_stuck_leads": [
+      {
+        "Deal ID": 655193000004759387,
+        "Deal Amount": 50000000.0,
+        "Lead_Age_Days": 236
+      },
+      {
+        "Deal ID": 655193000004759304,
+        "Deal Amount": 50000000.0,
+        "Lead_Age_Days": 236
+      },
+      {
+        "Deal ID": 655193000004259026,
+        "Deal Amount": 10000000.0,
+        "Lead_Age_Days": 259
+      },
+      {
+        "Deal ID": 655193000003054025,
+        "Deal Amount": 7500000.0,
+        "Lead_Age_Days": 343
+      },
+      {
+        "Deal ID": 655193000002907139,
+        "Deal Amount": 7500000.0,
+        "Lead_Age_Days": 359
+      },
+      {
+        "Deal ID": 655193000003618788,
+        "Deal Amount": 7200000.0,
+        "Lead_Age_Days": 296
+      },
+      {
+        "Deal ID": 655193000005509017,
+        "Deal Amount": 6700000.0,
+        "Lead_Age_Days": 197
+      },
+      {
+        "Deal ID": 655193000003618975,
+        "Deal Amount": 6000000.0,
+        "Lead_Age_Days": 296
+      },
+      {
+        "Deal ID": 655193000005451004,
+        "Deal Amount": 6000000.0,
+        "Lead_Age_Days": 202
+      },
+      {
+        "Deal ID": 655193000004596026,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 244
+      },
+      {
+        "Deal ID": 655193000004135199,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 268
+      },
+      {
+        "Deal ID": 655193000003955024,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 278
+      },
+      {
+        "Deal ID": 655193000003317027,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 320
+      },
+      {
+        "Deal ID": 655193000003317997,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 320
+      },
+      {
+        "Deal ID": 655193000004544008,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 250
+      },
+      {
+        "Deal ID": 655193000004981109,
+        "Deal Amount": 5000000.0,
+        "Lead_Age_Days": 228
+      },
+      {
+        "Deal ID": 655193000006703117,
+        "Deal Amount": 4800000.0,
+        "Lead_Age_Days": 121
+      },
+      {
+        "Deal ID": 655193000003838069,
+        "Deal Amount": 4500000.0,
+        "Lead_Age_Days": 285
+      },
+      {
+        "Deal ID": 655193000002720245,
+        "Deal Amount": 4200000.0,
+        "Lead_Age_Days": 376
+      },
+      {
+        "Deal ID": 655193000007129352,
+        "Deal Amount": 4000000.0,
+        "Lead_Age_Days": 87
+      }
+    ]
+  },
+  "ai_insights": [
+    "Critical Bottleneck: 40% of leads lost at Lead\u2192Qualified transition",
+    "",
+    "Stage-by-Stage Analysis:",
+    "\u2022 Lead Contact: 25.3% success rate (820 of 3,240 contactable)",
+    "\u2022 Qualification: 60% conversion (major improvement opportunity)",
+    "\u2022 Proposal: 18.6% conversion (proposals may be too complex)",
+    "\u2022 Negotiation: 25% conversion (decision process too slow)",
+    "",
+    "Key Patterns:",
+    "\u2022 Average lead age: 333 days (way too long)",
+    "\u2022 5,404 dead leads (180+ days) worth $3.76B at risk",
+    "\u2022 Fresh leads (0-7 days) have 3x higher conversion rates",
+    "",
+    "Immediate Actions:",
+    "1. Review qualification criteria - too restrictive?",
+    "2. Implement lead scoring to prioritize fresh leads",
+    "3. Create urgency in proposals with time-limited offers"
+  ],
+  "actionable_items": [
+    {
+      "id": "funnel_1",
+      "title": "Fix Lead Qualification Process",
+      "description": "40% of leads drop off at Lead\u2192Qualified stage - review qualification criteria",
+      "priority": "urgent"
+    },
+    {
+      "id": "funnel_2",
+      "title": "Streamline Negotiation Stage",
+      "description": "Negotiation takes 6 days longer than target - simplify decision process",
+      "priority": "high"
+    },
+    {
+      "id": "funnel_3",
+      "title": "Review Proposal Approach",
+      "description": "18.6% conversion at Proposal stage suggests proposals may be too complex",
+      "priority": "medium"
+    }
+  ]
+}

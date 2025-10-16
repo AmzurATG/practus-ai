@@ -1,0 +1,101 @@
+Employee_ID,Employee_Name,Primary_Skill,Skill_Level,Years_Experience,Certifications,Department,Last_Training_Date
+EMP001,Employee_1,Python,Advanced,14,0,DevOps,2025-06-26
+EMP002,Employee_2,AWS,Beginner,6,4,Product,2024-11-28
+EMP003,Employee_3,Python,Advanced,1,2,Data Science,2025-01-29
+EMP004,Employee_4,Docker,Intermediate,2,4,Engineering,2025-07-21
+EMP005,Employee_5,Java,Advanced,12,3,QA,2025-04-29
+EMP006,Employee_6,React,Expert,13,4,DevOps,2025-06-27
+EMP007,Employee_7,React,Advanced,5,0,Product,2024-10-25
+EMP008,Employee_8,Java,Beginner,10,0,Engineering,2025-01-05
+EMP009,Employee_9,Docker,Beginner,2,4,DevOps,2025-03-11
+EMP010,Employee_10,AWS,Expert,3,3,Engineering,2025-06-10
+EMP011,Employee_11,AWS,Beginner,13,2,Engineering,2024-12-10
+EMP012,Employee_12,Python,Intermediate,7,1,QA,2025-08-15
+EMP013,Employee_13,Docker,Expert,2,2,DevOps,2025-01-24
+EMP014,Employee_14,SQL,Advanced,9,4,DevOps,2024-11-17
+EMP015,Employee_15,Docker,Beginner,10,2,QA,2025-03-28
+EMP016,Employee_16,Docker,Beginner,4,4,DevOps,2025-07-20
+EMP017,Employee_17,JavaScript,Expert,14,1,Engineering,2024-12-30
+EMP018,Employee_18,AWS,Expert,14,2,Product,2025-02-16
+EMP019,Employee_19,Java,Intermediate,4,3,Engineering,2024-11-14
+EMP020,Employee_20,React,Advanced,12,2,DevOps,2025-07-08
+EMP021,Employee_21,AWS,Beginner,10,2,DevOps,2025-04-18
+EMP022,Employee_22,React,Beginner,5,0,DevOps,2024-11-18
+EMP023,Employee_23,SQL,Expert,13,1,DevOps,2025-03-13
+EMP024,Employee_24,SQL,Advanced,11,4,DevOps,2025-04-14
+EMP025,Employee_25,React,Expert,2,0,Product,2025-05-15
+EMP026,Employee_26,React,Advanced,8,0,Engineering,2025-06-22
+EMP027,Employee_27,SQL,Advanced,6,0,Product,2024-11-29
+EMP028,Employee_28,Python,Intermediate,12,0,Product,2025-03-26
+EMP029,Employee_29,React,Expert,11,0,QA,2024-12-30
+EMP030,Employee_30,SQL,Expert,5,4,Product,2025-05-14
+EMP031,Employee_31,Docker,Expert,1,0,Product,2025-06-16
+EMP032,Employee_32,React,Expert,6,0,QA,2025-04-17
+EMP033,Employee_33,Java,Intermediate,10,2,Data Science,2025-07-31
+EMP034,Employee_34,JavaScript,Intermediate,1,4,QA,2024-12-09
+EMP035,Employee_35,AWS,Expert,13,3,Product,2024-12-07
+EMP036,Employee_36,Docker,Advanced,11,0,DevOps,2025-04-11
+EMP037,Employee_37,JavaScript,Advanced,8,2,Product,2025-02-25
+EMP038,Employee_38,SQL,Beginner,8,4,QA,2025-07-18
+EMP039,Employee_39,Docker,Expert,9,0,QA,2025-03-26
+EMP040,Employee_40,React,Intermediate,10,1,QA,2024-10-16
+EMP041,Employee_41,Python,Advanced,7,0,Data Science,2025-07-13
+EMP042,Employee_42,SQL,Intermediate,14,1,DevOps,2024-12-31
+EMP043,Employee_43,SQL,Intermediate,5,0,QA,2025-06-12
+EMP044,Employee_44,JavaScript,Expert,6,3,Engineering,2025-04-17
+EMP045,Employee_45,Python,Expert,4,2,DevOps,2024-10-17
+EMP046,Employee_46,Docker,Advanced,13,4,Data Science,2024-11-08
+EMP047,Employee_47,Docker,Intermediate,5,3,Engineering,2025-08-04
+EMP048,Employee_48,Docker,Intermediate,4,1,Engineering,2025-04-20
+EMP049,Employee_49,JavaScript,Advanced,6,4,QA,2025-06-26
+EMP050,Employee_50,AWS,Beginner,11,3,QA,2024-11-23
+EMP051,Employee_51,Python,Advanced,6,2,DevOps,2024-10-29
+EMP052,Employee_52,Python,Expert,9,3,Data Science,2024-11-13
+EMP053,Employee_53,Docker,Expert,1,0,Data Science,2024-11-22
+EMP054,Employee_54,React,Advanced,10,4,Product,2025-08-18
+EMP055,Employee_55,JavaScript,Advanced,12,0,Product,2025-07-05
+EMP056,Employee_56,React,Expert,8,4,Product,2025-01-03
+EMP057,Employee_57,JavaScript,Intermediate,11,1,QA,2025-06-08
+EMP058,Employee_58,Python,Intermediate,12,2,DevOps,2024-12-18
+EMP059,Employee_59,Java,Beginner,6,3,Engineering,2025-08-06
+EMP060,Employee_60,AWS,Beginner,7,3,DevOps,2024-12-24
+EMP061,Employee_61,JavaScript,Expert,10,0,DevOps,2025-07-20
+EMP062,Employee_62,Docker,Beginner,9,0,Data Science,2025-05-21
+EMP063,Employee_63,SQL,Advanced,8,2,Product,2025-01-26
+EMP064,Employee_64,Docker,Expert,8,1,DevOps,2025-02-11
+EMP065,Employee_65,AWS,Advanced,14,4,DevOps,2024-12-15
+EMP066,Employee_66,Python,Beginner,2,0,QA,2025-06-17
+EMP067,Employee_67,Python,Expert,11,2,Engineering,2024-11-13
+EMP068,Employee_68,Java,Intermediate,5,0,DevOps,2025-01-10
+EMP069,Employee_69,Java,Advanced,12,4,DevOps,2024-12-21
+EMP070,Employee_70,Docker,Intermediate,10,0,Product,2025-03-07
+EMP071,Employee_71,Python,Intermediate,14,2,Data Science,2025-06-06
+EMP072,Employee_72,React,Advanced,1,4,QA,2024-12-29
+EMP073,Employee_73,Docker,Expert,9,2,DevOps,2025-03-06
+EMP074,Employee_74,SQL,Advanced,10,3,QA,2024-10-27
+EMP075,Employee_75,SQL,Beginner,7,2,DevOps,2025-07-11
+EMP076,Employee_76,SQL,Advanced,3,1,Engineering,2024-11-08
+EMP077,Employee_77,AWS,Advanced,9,3,DevOps,2024-11-01
+EMP078,Employee_78,Python,Beginner,11,1,Engineering,2025-08-17
+EMP079,Employee_79,Python,Advanced,10,4,Data Science,2025-06-17
+EMP080,Employee_80,Java,Intermediate,12,4,Product,2024-12-21
+EMP081,Employee_81,Docker,Intermediate,1,1,Product,2025-02-15
+EMP082,Employee_82,Python,Beginner,13,1,QA,2025-09-05
+EMP083,Employee_83,AWS,Advanced,11,4,Engineering,2024-12-08
+EMP084,Employee_84,React,Beginner,1,1,Data Science,2025-02-12
+EMP085,Employee_85,JavaScript,Intermediate,3,3,Engineering,2025-01-29
+EMP086,Employee_86,JavaScript,Intermediate,1,3,DevOps,2024-10-19
+EMP087,Employee_87,Docker,Intermediate,9,2,Engineering,2024-12-03
+EMP088,Employee_88,AWS,Advanced,11,4,DevOps,2025-04-10
+EMP089,Employee_89,React,Intermediate,1,4,QA,2025-04-30
+EMP090,Employee_90,JavaScript,Intermediate,13,1,DevOps,2025-03-13
+EMP091,Employee_91,SQL,Intermediate,9,1,Product,2024-10-20
+EMP092,Employee_92,SQL,Beginner,4,4,Data Science,2025-07-31
+EMP093,Employee_93,SQL,Expert,7,3,Data Science,2025-07-15
+EMP094,Employee_94,Java,Beginner,3,4,QA,2025-05-17
+EMP095,Employee_95,React,Intermediate,3,4,Data Science,2024-12-03
+EMP096,Employee_96,JavaScript,Beginner,13,2,Product,2025-01-29
+EMP097,Employee_97,Docker,Advanced,7,0,QA,2025-02-03
+EMP098,Employee_98,React,Advanced,11,0,Data Science,2025-04-02
+EMP099,Employee_99,JavaScript,Advanced,5,3,Product,2025-02-14
+EMP100,Employee_100,Python,Beginner,7,0,QA,2025-01-30

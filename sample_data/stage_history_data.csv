@@ -1,0 +1,501 @@
+Deal_ID,Stage,Stage_Date,Days_in_Stage,Previous_Stage,Stage_Notes
+76,Qualification,2025-08-26,29,Proposal,Note_0
+4,Proposal,2025-04-26,1,,Note_1
+72,Qualification,2025-03-25,11,Negotiation,Note_2
+32,Qualification,2025-03-09,34,,Note_3
+61,Negotiation,2025-02-11,19,,Note_4
+53,Prospecting,2024-11-08,25,Prospecting,Note_5
+44,Negotiation,2025-07-19,20,Proposal,Note_6
+82,Prospecting,2024-11-28,22,Prospecting,Note_7
+7,Prospecting,2025-07-17,40,,Note_8
+92,Closed Lost,2024-12-25,17,,Note_9
+31,Qualification,2024-11-26,16,Prospecting,Note_10
+21,Closed Won,2025-09-29,41,Negotiation,Note_11
+5,Prospecting,2025-06-09,38,Proposal,Note_12
+24,Qualification,2025-08-12,11,,Note_13
+46,Closed Lost,2024-10-10,55,Qualification,Note_14
+72,Closed Lost,2025-03-07,36,Proposal,Note_15
+28,Closed Won,2025-07-28,51,Prospecting,Note_16
+12,Qualification,2025-01-09,19,Negotiation,Note_17
+2,Negotiation,2025-03-27,11,Negotiation,Note_18
+66,Negotiation,2025-07-17,52,,Note_19
+39,Qualification,2025-08-14,57,Prospecting,Note_20
+51,Closed Lost,2025-02-04,51,Qualification,Note_21
+38,Negotiation,2024-11-08,34,Proposal,Note_22
+30,Qualification,2025-09-03,13,Proposal,Note_23
+66,Closed Lost,2025-07-13,10,Negotiation,Note_24
+13,Proposal,2025-05-10,44,Qualification,Note_25
+50,Closed Lost,2025-08-21,16,Negotiation,Note_26
+29,Prospecting,2025-07-29,55,Qualification,Note_27
+42,Closed Won,2025-06-29,10,Prospecting,Note_28
+30,Proposal,2025-06-06,48,Proposal,Note_29
+8,Closed Lost,2025-08-27,38,,Note_30
+84,Closed Won,2025-04-29,29,Negotiation,Note_31
+72,Negotiation,2025-01-29,25,Qualification,Note_32
+11,Closed Lost,2025-04-11,53,Qualification,Note_33
+76,Proposal,2025-09-23,43,Negotiation,Note_34
+71,Closed Lost,2025-02-15,35,Proposal,Note_35
+78,Prospecting,2025-02-04,49,Negotiation,Note_36
+24,Proposal,2025-03-15,48,Prospecting,Note_37
+8,Prospecting,2025-02-27,40,Prospecting,Note_38
+42,Closed Lost,2024-12-05,57,,Note_39
+16,Closed Lost,2025-08-19,51,Negotiation,Note_40
+51,Prospecting,2025-09-08,51,Negotiation,Note_41
+52,Negotiation,2025-04-21,38,Qualification,Note_42
+47,Qualification,2025-05-03,16,Proposal,Note_43
+84,Proposal,2024-11-01,14,Prospecting,Note_44
+50,Prospecting,2025-01-18,1,Qualification,Note_45
+11,Closed Won,2024-10-18,41,Negotiation,Note_46
+34,Negotiation,2024-10-10,9,Proposal,Note_47
+48,Negotiation,2025-02-05,52,Prospecting,Note_48
+98,Negotiation,2025-08-08,58,Proposal,Note_49
+45,Negotiation,2025-06-18,39,,Note_50
+32,Closed Won,2024-10-19,44,Prospecting,Note_51
+79,Proposal,2025-01-18,10,,Note_52
+95,Qualification,2025-05-04,31,,Note_53
+51,Negotiation,2025-08-06,36,Prospecting,Note_54
+100,Prospecting,2025-06-02,36,Proposal,Note_55
+78,Qualification,2025-10-03,44,Prospecting,Note_56
+89,Prospecting,2024-11-09,14,Prospecting,Note_57
+42,Closed Won,2025-05-20,40,,Note_58
+8,Closed Lost,2025-07-21,31,Prospecting,Note_59
+92,Negotiation,2025-09-03,49,Proposal,Note_60
+74,Proposal,2025-03-30,39,Negotiation,Note_61
+20,Prospecting,2025-01-02,31,Qualification,Note_62
+73,Negotiation,2024-11-12,55,Negotiation,Note_63
+34,Proposal,2025-01-22,30,Proposal,Note_64
+33,Proposal,2025-09-13,8,Prospecting,Note_65
+19,Negotiation,2025-06-14,57,Negotiation,Note_66
+93,Closed Won,2025-08-10,53,Proposal,Note_67
+99,Closed Lost,2025-06-21,11,Prospecting,Note_68
+7,Qualification,2025-09-13,19,Qualification,Note_69
+22,Negotiation,2024-10-07,29,Prospecting,Note_70
+55,Prospecting,2024-10-18,28,Qualification,Note_71
+45,Negotiation,2025-04-27,50,Proposal,Note_72
+86,Prospecting,2025-03-18,51,Qualification,Note_73
+78,Proposal,2024-11-11,16,Qualification,Note_74
+85,Closed Won,2025-07-05,15,Qualification,Note_75
+56,Qualification,2025-09-07,6,Qualification,Note_76
+40,Closed Lost,2025-06-20,7,,Note_77
+11,Negotiation,2025-07-23,9,Prospecting,Note_78
+18,Proposal,2025-05-31,45,Prospecting,Note_79
+65,Closed Lost,2025-03-16,23,Qualification,Note_80
+99,Proposal,2025-09-12,55,Qualification,Note_81
+10,Closed Won,2025-09-15,13,Qualification,Note_82
+87,Prospecting,2025-06-07,53,Negotiation,Note_83
+83,Qualification,2025-07-27,2,,Note_84
+83,Prospecting,2025-05-04,15,Qualification,Note_85
+91,Prospecting,2025-09-27,42,Qualification,Note_86
+16,Closed Lost,2025-06-24,32,Negotiation,Note_87
+5,Prospecting,2025-01-30,4,,Note_88
+57,Prospecting,2025-01-24,35,,Note_89
+43,Closed Won,2024-12-29,36,Prospecting,Note_90
+58,Proposal,2024-11-08,29,Negotiation,Note_91
+4,Negotiation,2025-06-24,3,Proposal,Note_92
+57,Closed Won,2025-01-10,11,,Note_93
+78,Negotiation,2025-05-01,10,Proposal,Note_94
+69,Closed Won,2024-12-11,35,Negotiation,Note_95
+30,Closed Won,2025-04-23,23,Prospecting,Note_96
+24,Closed Won,2025-04-19,10,Prospecting,Note_97
+73,Closed Won,2025-04-04,26,,Note_98
+25,Negotiation,2025-04-20,49,Negotiation,Note_99
+78,Negotiation,2025-03-03,26,Negotiation,Note_100
+57,Prospecting,2025-04-03,21,,Note_101
+95,Closed Lost,2024-11-28,51,,Note_102
+54,Negotiation,2025-08-13,33,,Note_103
+30,Negotiation,2025-03-22,59,Proposal,Note_104
+3,Closed Lost,2025-07-22,34,,Note_105
+35,Closed Lost,2025-08-14,26,Proposal,Note_106
+11,Prospecting,2025-08-05,26,Negotiation,Note_107
+27,Negotiation,2024-10-29,27,Qualification,Note_108
+69,Proposal,2025-07-19,17,Negotiation,Note_109
+52,Closed Won,2025-06-04,59,Negotiation,Note_110
+80,Negotiation,2025-03-18,49,,Note_111
+76,Closed Won,2025-09-19,7,Negotiation,Note_112
+59,Proposal,2024-10-17,14,Qualification,Note_113
+48,Proposal,2025-06-02,23,Negotiation,Note_114
+96,Prospecting,2024-12-30,38,Prospecting,Note_115
+36,Closed Won,2025-04-07,9,Qualification,Note_116
+6,Proposal,2025-08-03,3,Qualification,Note_117
+15,Prospecting,2025-03-10,31,Prospecting,Note_118
+76,Closed Lost,2024-11-13,48,Proposal,Note_119
+45,Closed Lost,2025-10-04,59,Proposal,Note_120
+86,Qualification,2025-09-14,32,Negotiation,Note_121
+44,Prospecting,2025-09-18,1,Qualification,Note_122
+74,Closed Won,2025-08-31,24,Proposal,Note_123
+19,Closed Won,2025-09-19,25,,Note_124
+27,Proposal,2025-02-20,57,Qualification,Note_125
+14,Closed Lost,2025-05-01,8,,Note_126
+2,Closed Lost,2025-01-01,54,Prospecting,Note_127
+49,Qualification,2025-06-12,49,Negotiation,Note_128
+56,Proposal,2024-12-06,22,Prospecting,Note_129
+63,Negotiation,2025-04-21,52,Proposal,Note_130
+37,Closed Lost,2025-04-21,9,Prospecting,Note_131
+14,Closed Won,2025-07-06,8,Proposal,Note_132
+30,Qualification,2025-06-06,47,Prospecting,Note_133
+6,Prospecting,2025-07-17,51,Qualification,Note_134
+96,Prospecting,2024-10-15,47,Prospecting,Note_135
+12,Closed Won,2024-12-27,20,Prospecting,Note_136
+66,Closed Lost,2025-09-09,33,Negotiation,Note_137
+76,Closed Lost,2024-11-24,40,Negotiation,Note_138
+13,Closed Won,2025-04-25,35,Negotiation,Note_139
+42,Qualification,2025-01-21,43,Qualification,Note_140
+8,Negotiation,2025-08-11,39,Proposal,Note_141
+61,Negotiation,2025-07-16,27,Prospecting,Note_142
+37,Prospecting,2024-10-10,19,Negotiation,Note_143
+46,Prospecting,2024-10-24,50,Proposal,Note_144
+87,Negotiation,2025-09-15,35,,Note_145
+37,Prospecting,2025-06-06,42,Negotiation,Note_146
+54,Qualification,2025-10-07,1,,Note_147
+7,Qualification,2025-05-10,58,Proposal,Note_148
+12,Qualification,2025-10-07,51,Negotiation,Note_149
+17,Closed Lost,2025-09-03,43,Prospecting,Note_150
+28,Qualification,2024-10-24,1,Prospecting,Note_151
+60,Closed Lost,2025-02-15,33,Negotiation,Note_152
+25,Prospecting,2025-01-31,37,Negotiation,Note_153
+34,Closed Won,2025-05-20,49,Negotiation,Note_154
+20,Closed Won,2025-05-11,39,Prospecting,Note_155
+70,Prospecting,2025-03-22,50,Prospecting,Note_156
+20,Closed Lost,2025-06-17,13,Proposal,Note_157
+13,Prospecting,2025-05-25,27,Qualification,Note_158
+89,Closed Lost,2024-11-20,47,,Note_159
+60,Negotiation,2025-10-01,27,Negotiation,Note_160
+96,Proposal,2025-09-18,14,Negotiation,Note_161
+43,Closed Lost,2024-10-08,46,Negotiation,Note_162
+33,Prospecting,2025-06-18,38,Qualification,Note_163
+66,Qualification,2025-07-12,6,Qualification,Note_164
+59,Closed Won,2025-02-20,20,Negotiation,Note_165
+80,Proposal,2025-07-24,13,Prospecting,Note_166
+23,Proposal,2024-11-04,40,,Note_167
+89,Negotiation,2024-10-17,48,Proposal,Note_168
+68,Negotiation,2025-08-09,40,Prospecting,Note_169
+14,Negotiation,2025-08-16,5,Prospecting,Note_170
+40,Qualification,2025-08-12,50,Proposal,Note_171
+79,Qualification,2024-12-07,37,Negotiation,Note_172
+21,Qualification,2025-06-04,30,Qualification,Note_173
+29,Closed Won,2025-01-21,19,Prospecting,Note_174
+30,Qualification,2025-09-15,14,Proposal,Note_175
+39,Prospecting,2025-05-16,11,Prospecting,Note_176
+94,Closed Won,2025-06-08,4,Negotiation,Note_177
+58,Qualification,2025-07-14,58,Prospecting,Note_178
+27,Proposal,2025-07-03,26,Proposal,Note_179
+40,Proposal,2024-11-14,1,Negotiation,Note_180
+46,Closed Won,2025-09-14,59,Negotiation,Note_181
+78,Qualification,2025-07-18,32,Negotiation,Note_182
+24,Qualification,2024-12-21,11,Qualification,Note_183
+63,Closed Won,2025-02-28,12,Proposal,Note_184
+10,Closed Lost,2025-04-27,7,Prospecting,Note_185
+24,Prospecting,2025-01-03,30,,Note_186
+63,Proposal,2025-02-26,54,Qualification,Note_187
+79,Closed Won,2025-09-25,11,Negotiation,Note_188
+25,Qualification,2025-07-04,51,Prospecting,Note_189
+71,Closed Won,2025-08-28,2,Proposal,Note_190
+85,Closed Won,2025-07-23,37,Negotiation,Note_191
+76,Prospecting,2025-07-04,1,Prospecting,Note_192
+85,Negotiation,2025-10-06,5,Prospecting,Note_193
+37,Closed Lost,2025-09-11,26,Negotiation,Note_194
+48,Prospecting,2024-10-23,39,Proposal,Note_195
+55,Negotiation,2024-10-19,9,Prospecting,Note_196
+87,Proposal,2025-02-03,52,Qualification,Note_197
+49,Negotiation,2025-05-21,27,Proposal,Note_198
+57,Qualification,2025-06-08,9,,Note_199
+38,Prospecting,2025-09-17,13,Qualification,Note_200
+17,Prospecting,2024-12-10,45,Proposal,Note_201
+69,Negotiation,2025-07-15,11,Prospecting,Note_202
+89,Qualification,2025-06-22,4,Prospecting,Note_203
+54,Closed Won,2024-12-15,12,Qualification,Note_204
+62,Negotiation,2025-06-07,44,Negotiation,Note_205
+92,Negotiation,2025-04-23,34,Prospecting,Note_206
+42,Negotiation,2025-08-25,34,Qualification,Note_207
+79,Closed Won,2024-12-12,42,Proposal,Note_208
+41,Negotiation,2025-09-06,57,Negotiation,Note_209
+79,Qualification,2025-04-26,41,,Note_210
+4,Proposal,2025-09-04,21,Negotiation,Note_211
+18,Qualification,2025-08-16,6,Prospecting,Note_212
+31,Qualification,2025-03-15,42,Prospecting,Note_213
+47,Negotiation,2025-04-01,35,,Note_214
+83,Negotiation,2025-04-28,37,Proposal,Note_215
+43,Closed Won,2025-02-25,57,,Note_216
+87,Closed Lost,2025-10-05,55,Qualification,Note_217
+75,Qualification,2025-01-24,44,Qualification,Note_218
+83,Closed Lost,2025-08-17,16,Qualification,Note_219
+22,Qualification,2024-10-08,42,Qualification,Note_220
+55,Qualification,2024-12-11,16,Proposal,Note_221
+92,Closed Lost,2025-03-25,25,Proposal,Note_222
+11,Closed Won,2025-06-24,51,Proposal,Note_223
+23,Closed Won,2024-12-28,50,Proposal,Note_224
+83,Proposal,2025-03-17,19,Proposal,Note_225
+98,Closed Won,2025-04-27,54,Prospecting,Note_226
+52,Prospecting,2024-12-19,5,,Note_227
+99,Closed Lost,2024-11-01,25,Prospecting,Note_228
+2,Prospecting,2024-10-10,13,Negotiation,Note_229
+99,Closed Won,2024-12-02,42,Proposal,Note_230
+35,Negotiation,2025-05-05,49,Prospecting,Note_231
+9,Closed Lost,2024-10-08,3,Qualification,Note_232
+69,Closed Lost,2025-07-08,58,Proposal,Note_233
+45,Qualification,2025-02-05,5,Negotiation,Note_234
+97,Closed Lost,2025-02-10,40,Qualification,Note_235
+56,Proposal,2025-05-03,4,Prospecting,Note_236
+26,Proposal,2025-06-21,23,Proposal,Note_237
+54,Prospecting,2025-07-14,28,Proposal,Note_238
+56,Qualification,2025-09-09,57,Qualification,Note_239
+32,Closed Lost,2025-08-31,30,Qualification,Note_240
+100,Prospecting,2025-03-16,27,Proposal,Note_241
+8,Closed Won,2024-10-12,13,Negotiation,Note_242
+73,Negotiation,2025-02-13,38,Negotiation,Note_243
+40,Closed Lost,2025-06-12,19,Prospecting,Note_244
+48,Qualification,2025-02-17,44,Prospecting,Note_245
+27,Qualification,2025-09-10,42,Qualification,Note_246
+10,Closed Lost,2025-09-02,46,Negotiation,Note_247
+56,Prospecting,2024-10-27,13,,Note_248
+89,Closed Won,2025-01-04,21,Prospecting,Note_249
+40,Negotiation,2025-03-17,5,Proposal,Note_250
+20,Negotiation,2024-12-16,47,Proposal,Note_251
+61,Negotiation,2025-05-03,26,Proposal,Note_252
+65,Negotiation,2025-04-02,6,Negotiation,Note_253
+19,Closed Lost,2024-11-07,47,Negotiation,Note_254
+83,Qualification,2025-04-01,46,Prospecting,Note_255
+55,Prospecting,2025-06-19,26,Prospecting,Note_256
+37,Proposal,2025-08-04,1,Negotiation,Note_257
+54,Qualification,2025-04-24,21,,Note_258
+32,Proposal,2024-11-21,2,Negotiation,Note_259
+35,Proposal,2024-10-21,58,Proposal,Note_260
+47,Qualification,2025-08-15,17,Prospecting,Note_261
+53,Closed Lost,2025-09-30,25,Prospecting,Note_262
+2,Prospecting,2025-09-29,49,Prospecting,Note_263
+54,Closed Won,2025-06-18,39,Prospecting,Note_264
+92,Qualification,2024-11-19,38,Qualification,Note_265
+96,Proposal,2025-06-04,6,Proposal,Note_266
+99,Qualification,2025-07-15,40,Negotiation,Note_267
+37,Closed Lost,2025-05-02,49,,Note_268
+42,Prospecting,2025-08-31,51,Proposal,Note_269
+16,Closed Lost,2025-04-10,14,Prospecting,Note_270
+85,Negotiation,2025-08-17,13,Prospecting,Note_271
+64,Closed Won,2025-03-17,46,Prospecting,Note_272
+67,Closed Won,2024-12-31,27,Qualification,Note_273
+3,Closed Lost,2025-01-26,40,,Note_274
+5,Proposal,2025-04-29,3,Negotiation,Note_275
+59,Closed Lost,2025-09-10,38,Prospecting,Note_276
+62,Closed Won,2025-01-16,46,Negotiation,Note_277
+99,Qualification,2025-02-15,24,Proposal,Note_278
+56,Prospecting,2025-09-15,27,Proposal,Note_279
+10,Qualification,2025-05-09,4,Prospecting,Note_280
+58,Closed Lost,2024-10-26,44,,Note_281
+100,Closed Won,2025-04-17,51,Negotiation,Note_282
+32,Closed Won,2025-04-30,20,Negotiation,Note_283
+60,Prospecting,2025-04-21,21,,Note_284
+13,Prospecting,2025-09-29,19,Qualification,Note_285
+93,Negotiation,2025-07-16,33,Proposal,Note_286
+11,Closed Lost,2025-09-22,33,Proposal,Note_287
+14,Proposal,2025-05-12,22,Qualification,Note_288
+83,Negotiation,2025-03-08,52,,Note_289
+99,Proposal,2024-10-26,43,Prospecting,Note_290
+53,Proposal,2025-09-24,5,Proposal,Note_291
+40,Closed Won,2025-02-14,59,Negotiation,Note_292
+86,Closed Lost,2025-01-24,27,,Note_293
+57,Qualification,2025-04-15,42,Negotiation,Note_294
+19,Prospecting,2024-10-08,52,Negotiation,Note_295
+74,Negotiation,2025-07-26,33,Proposal,Note_296
+31,Closed Lost,2024-11-04,42,Proposal,Note_297
+52,Prospecting,2025-05-18,53,Prospecting,Note_298
+68,Closed Lost,2025-10-02,46,Proposal,Note_299
+91,Qualification,2025-09-02,2,Prospecting,Note_300
+45,Prospecting,2025-06-10,15,Negotiation,Note_301
+54,Closed Won,2025-07-15,56,Prospecting,Note_302
+64,Closed Lost,2025-05-01,19,Negotiation,Note_303
+91,Closed Lost,2024-10-28,58,,Note_304
+83,Closed Won,2025-05-24,43,Negotiation,Note_305
+49,Closed Lost,2025-07-02,18,Proposal,Note_306
+33,Closed Won,2024-12-29,57,Qualification,Note_307
+51,Qualification,2024-12-01,46,Negotiation,Note_308
+72,Negotiation,2025-09-20,8,Prospecting,Note_309
+69,Closed Won,2025-04-19,49,Negotiation,Note_310
+49,Qualification,2025-07-31,4,,Note_311
+24,Closed Won,2025-07-12,48,Prospecting,Note_312
+48,Negotiation,2025-01-23,47,Negotiation,Note_313
+29,Negotiation,2025-01-22,54,Qualification,Note_314
+42,Proposal,2025-04-04,13,Qualification,Note_315
+47,Closed Lost,2024-10-16,55,Proposal,Note_316
+22,Proposal,2025-04-17,26,,Note_317
+97,Closed Lost,2025-02-19,7,Prospecting,Note_318
+1,Negotiation,2025-01-17,45,Qualification,Note_319
+82,Negotiation,2024-10-13,48,Qualification,Note_320
+90,Closed Won,2025-01-25,32,Proposal,Note_321
+93,Closed Won,2024-10-26,16,Proposal,Note_322
+73,Closed Won,2025-05-21,29,Negotiation,Note_323
+63,Closed Won,2025-06-10,13,Proposal,Note_324
+73,Qualification,2025-03-02,19,Prospecting,Note_325
+46,Qualification,2025-04-30,41,,Note_326
+1,Qualification,2025-03-26,4,,Note_327
+8,Proposal,2025-05-19,51,Proposal,Note_328
+75,Proposal,2025-06-01,32,Negotiation,Note_329
+7,Proposal,2024-11-20,21,,Note_330
+79,Closed Won,2025-05-13,24,Prospecting,Note_331
+28,Negotiation,2025-05-08,45,Negotiation,Note_332
+78,Negotiation,2024-11-16,40,Prospecting,Note_333
+95,Qualification,2025-04-01,34,Prospecting,Note_334
+89,Proposal,2024-10-08,9,Prospecting,Note_335
+12,Prospecting,2025-09-11,15,Qualification,Note_336
+81,Closed Won,2025-06-13,14,,Note_337
+52,Closed Lost,2025-04-08,36,,Note_338
+12,Proposal,2025-06-29,24,Negotiation,Note_339
+10,Closed Won,2024-12-13,38,Qualification,Note_340
+73,Prospecting,2024-11-13,25,,Note_341
+47,Proposal,2025-07-21,27,Negotiation,Note_342
+25,Qualification,2025-06-11,27,Proposal,Note_343
+8,Closed Won,2025-09-08,48,,Note_344
+76,Prospecting,2025-08-06,4,Prospecting,Note_345
+58,Negotiation,2025-02-28,3,Proposal,Note_346
+30,Closed Lost,2025-06-29,11,Proposal,Note_347
+3,Closed Won,2025-03-23,36,Qualification,Note_348
+60,Closed Lost,2025-04-06,38,Negotiation,Note_349
+73,Closed Won,2024-11-23,35,Proposal,Note_350
+97,Qualification,2025-07-22,12,Proposal,Note_351
+69,Prospecting,2025-05-01,35,Negotiation,Note_352
+58,Closed Lost,2024-12-11,28,Qualification,Note_353
+59,Prospecting,2025-05-25,42,Prospecting,Note_354
+48,Prospecting,2024-11-02,6,Qualification,Note_355
+44,Proposal,2024-10-18,24,Proposal,Note_356
+68,Closed Won,2025-03-28,15,Prospecting,Note_357
+94,Closed Lost,2024-11-07,7,Proposal,Note_358
+48,Closed Won,2025-06-07,3,Qualification,Note_359
+59,Closed Won,2025-02-25,45,Proposal,Note_360
+47,Proposal,2025-04-12,59,Negotiation,Note_361
+7,Prospecting,2025-08-24,53,,Note_362
+20,Negotiation,2025-03-05,36,Proposal,Note_363
+86,Closed Won,2025-06-19,28,,Note_364
+20,Prospecting,2024-12-18,4,Proposal,Note_365
+92,Negotiation,2025-03-13,52,Qualification,Note_366
+59,Negotiation,2025-04-27,7,Proposal,Note_367
+76,Negotiation,2025-09-02,13,Proposal,Note_368
+1,Prospecting,2025-07-17,14,,Note_369
+73,Closed Lost,2025-07-15,47,Proposal,Note_370
+74,Prospecting,2025-02-19,3,Negotiation,Note_371
+6,Qualification,2025-02-23,39,,Note_372
+60,Proposal,2025-08-11,41,Qualification,Note_373
+99,Qualification,2025-09-16,34,Qualification,Note_374
+40,Proposal,2025-02-28,7,Qualification,Note_375
+5,Negotiation,2024-11-11,26,Proposal,Note_376
+7,Proposal,2025-05-29,21,Qualification,Note_377
+58,Closed Lost,2025-03-04,46,Proposal,Note_378
+43,Qualification,2025-03-21,5,Qualification,Note_379
+3,Closed Won,2025-04-10,59,Prospecting,Note_380
+61,Proposal,2024-10-20,50,Prospecting,Note_381
+47,Negotiation,2025-02-19,2,,Note_382
+86,Negotiation,2025-04-14,22,Prospecting,Note_383
+16,Proposal,2025-09-05,26,Qualification,Note_384
+76,Closed Won,2024-11-26,53,Negotiation,Note_385
+100,Closed Won,2025-03-12,42,,Note_386
+94,Qualification,2024-10-17,27,,Note_387
+27,Negotiation,2024-10-31,18,Proposal,Note_388
+3,Proposal,2025-04-21,19,Prospecting,Note_389
+26,Negotiation,2025-10-03,25,Prospecting,Note_390
+67,Negotiation,2024-11-09,32,Proposal,Note_391
+29,Qualification,2025-05-14,23,Prospecting,Note_392
+85,Closed Won,2025-01-26,37,Prospecting,Note_393
+1,Negotiation,2025-03-09,15,Prospecting,Note_394
+97,Proposal,2025-07-14,35,Negotiation,Note_395
+95,Proposal,2025-04-05,31,Negotiation,Note_396
+65,Prospecting,2024-11-05,49,Qualification,Note_397
+48,Negotiation,2025-06-06,49,Qualification,Note_398
+92,Negotiation,2024-11-21,8,Prospecting,Note_399
+70,Prospecting,2025-04-19,14,Qualification,Note_400
+6,Closed Lost,2024-10-15,20,Qualification,Note_401
+16,Closed Won,2025-07-18,3,,Note_402
+73,Proposal,2025-04-24,21,Prospecting,Note_403
+83,Closed Lost,2025-04-22,34,Proposal,Note_404
+20,Proposal,2025-05-23,44,,Note_405
+99,Proposal,2024-11-14,34,Proposal,Note_406
+66,Proposal,2025-09-12,31,Negotiation,Note_407
+38,Prospecting,2025-01-27,52,Qualification,Note_408
+51,Closed Lost,2025-09-07,34,Proposal,Note_409
+9,Prospecting,2025-01-01,38,Negotiation,Note_410
+6,Negotiation,2025-08-30,31,Qualification,Note_411
+51,Closed Won,2024-12-26,54,Qualification,Note_412
+1,Qualification,2025-09-04,39,Negotiation,Note_413
+19,Prospecting,2025-04-26,21,Qualification,Note_414
+87,Negotiation,2024-10-30,14,Qualification,Note_415
+29,Proposal,2025-02-14,41,Proposal,Note_416
+100,Qualification,2025-04-01,33,Qualification,Note_417
+49,Qualification,2025-07-08,53,Negotiation,Note_418
+19,Closed Lost,2025-06-25,11,Qualification,Note_419
+90,Negotiation,2025-06-28,1,Proposal,Note_420
+13,Negotiation,2024-12-20,35,Prospecting,Note_421
+30,Proposal,2024-12-08,12,Negotiation,Note_422
+24,Prospecting,2025-07-19,15,Proposal,Note_423
+67,Negotiation,2025-01-04,28,,Note_424
+97,Qualification,2024-11-22,41,Proposal,Note_425
+73,Proposal,2025-08-06,51,Proposal,Note_426
+15,Qualification,2025-09-25,53,Proposal,Note_427
+16,Closed Lost,2025-09-25,58,Prospecting,Note_428
+55,Negotiation,2025-04-05,46,Qualification,Note_429
+86,Qualification,2024-12-17,57,Negotiation,Note_430
+95,Closed Won,2025-08-16,15,Prospecting,Note_431
+85,Closed Won,2025-05-31,3,Proposal,Note_432
+93,Closed Won,2025-05-24,28,,Note_433
+46,Closed Lost,2025-04-24,47,Proposal,Note_434
+1,Closed Won,2024-10-08,56,Negotiation,Note_435
+18,Qualification,2025-02-21,28,,Note_436
+62,Proposal,2025-06-21,42,Negotiation,Note_437
+5,Closed Won,2025-02-07,17,Proposal,Note_438
+64,Proposal,2025-03-01,24,Negotiation,Note_439
+4,Proposal,2025-01-28,8,Negotiation,Note_440
+60,Prospecting,2025-04-14,13,Prospecting,Note_441
+62,Closed Won,2025-05-23,29,,Note_442
+97,Negotiation,2025-05-31,35,Qualification,Note_443
+55,Closed Lost,2024-12-09,17,Proposal,Note_444
+34,Prospecting,2025-07-09,21,Proposal,Note_445
+78,Closed Won,2025-08-29,53,Qualification,Note_446
+69,Closed Won,2025-05-24,1,Qualification,Note_447
+100,Qualification,2024-12-20,44,,Note_448
+58,Closed Won,2025-04-08,13,Qualification,Note_449
+40,Negotiation,2024-11-25,8,Negotiation,Note_450
+42,Prospecting,2025-05-08,1,Prospecting,Note_451
+29,Closed Won,2025-04-04,41,Proposal,Note_452
+81,Closed Won,2025-01-29,50,,Note_453
+39,Prospecting,2024-11-14,57,Proposal,Note_454
+80,Proposal,2025-05-18,36,Qualification,Note_455
+80,Closed Won,2025-02-20,15,Prospecting,Note_456
+22,Prospecting,2025-05-20,2,Prospecting,Note_457
+83,Closed Lost,2025-07-11,32,,Note_458
+73,Closed Lost,2025-03-14,50,Prospecting,Note_459
+86,Qualification,2025-04-25,39,Prospecting,Note_460
+36,Prospecting,2025-04-27,37,Proposal,Note_461
+14,Closed Won,2024-12-03,56,Negotiation,Note_462
+70,Negotiation,2025-08-21,46,Prospecting,Note_463
+83,Prospecting,2025-05-13,5,,Note_464
+55,Qualification,2025-07-03,43,,Note_465
+17,Proposal,2024-11-23,24,Prospecting,Note_466
+47,Closed Won,2025-08-07,35,,Note_467
+22,Prospecting,2024-11-04,23,Prospecting,Note_468
+85,Negotiation,2025-09-04,28,,Note_469
+27,Closed Lost,2025-05-14,28,Prospecting,Note_470
+51,Closed Lost,2025-07-29,50,,Note_471
+37,Qualification,2024-11-23,23,Proposal,Note_472
+50,Negotiation,2025-04-22,3,,Note_473
+46,Qualification,2025-08-17,35,Negotiation,Note_474
+94,Qualification,2025-09-15,21,,Note_475
+62,Closed Won,2024-12-26,21,Prospecting,Note_476
+96,Proposal,2025-07-25,12,Prospecting,Note_477
+56,Closed Won,2025-09-18,39,,Note_478
+86,Closed Lost,2025-09-16,3,Proposal,Note_479
+48,Proposal,2025-09-15,54,Prospecting,Note_480
+20,Negotiation,2024-11-09,52,,Note_481
+31,Proposal,2025-01-05,11,Prospecting,Note_482
+3,Proposal,2025-05-19,4,Prospecting,Note_483
+68,Qualification,2025-05-11,21,Prospecting,Note_484
+6,Negotiation,2025-05-23,5,Negotiation,Note_485
+6,Qualification,2025-09-03,43,Qualification,Note_486
+4,Closed Won,2024-12-18,6,,Note_487
+100,Closed Won,2025-01-08,1,Proposal,Note_488
+47,Proposal,2025-01-21,42,Proposal,Note_489
+93,Closed Lost,2025-01-23,57,Prospecting,Note_490
+74,Negotiation,2025-01-10,2,Prospecting,Note_491
+48,Closed Lost,2024-10-12,39,Qualification,Note_492
+84,Proposal,2025-03-06,36,Negotiation,Note_493
+28,Closed Lost,2025-08-07,22,Prospecting,Note_494
+45,Prospecting,2024-12-20,3,,Note_495
+2,Prospecting,2025-10-04,23,,Note_496
+29,Proposal,2025-03-20,4,,Note_497
+68,Proposal,2025-04-18,51,,Note_498
+20,Qualification,2025-08-06,12,Proposal,Note_499

@@ -1,0 +1,101 @@
+Deal_ID,Deal_Name,Deal_Amount,Stage,Close_Date,Sales_Rep,Region
+1,Deal_1,438429,Negotiation,2026-01-20,Rep_0,North
+2,Deal_2,174694,Closed Won,2025-04-23,Rep_1,West
+3,Deal_3,259407,Negotiation,2026-01-13,Rep_2,East
+4,Deal_4,128959,Negotiation,2025-01-10,Rep_3,East
+5,Deal_5,303671,Closed Won,2026-02-09,Rep_4,East
+6,Deal_6,167828,Negotiation,2026-07-18,Rep_5,South
+7,Deal_7,255683,Prospecting,2026-08-05,Rep_6,South
+8,Deal_8,332941,Negotiation,2025-07-07,Rep_7,South
+9,Deal_9,237784,Proposal,2025-02-10,Rep_8,South
+10,Deal_10,350475,Closed Lost,2025-07-16,Rep_9,South
+11,Deal_11,271502,Qualification,2025-06-11,Rep_0,West
+12,Deal_12,324522,Closed Lost,2025-06-23,Rep_1,West
+13,Deal_13,351332,Negotiation,2025-03-23,Rep_2,West
+14,Deal_14,294628,Closed Won,2025-06-21,Rep_3,South
+15,Deal_15,422734,Qualification,2026-04-24,Rep_4,East
+16,Deal_16,466021,Qualification,2024-10-21,Rep_5,West
+17,Deal_17,172583,Negotiation,2025-11-12,Rep_6,South
+18,Deal_18,371993,Proposal,2026-02-08,Rep_7,West
+19,Deal_19,418197,Closed Won,2025-03-09,Rep_8,South
+20,Deal_20,281796,Negotiation,2026-04-01,Rep_9,West
+21,Deal_21,96263,Prospecting,2025-10-09,Rep_0,North
+22,Deal_22,227755,Prospecting,2024-11-18,Rep_1,West
+23,Deal_23,239631,Closed Lost,2025-11-04,Rep_2,North
+24,Deal_24,106682,Qualification,2025-09-13,Rep_3,North
+25,Deal_25,407806,Proposal,2025-07-01,Rep_4,West
+26,Deal_26,46969,Closed Won,2026-06-06,Rep_5,East
+27,Deal_27,488830,Negotiation,2025-10-01,Rep_6,North
+28,Deal_28,299813,Proposal,2025-08-27,Rep_7,West
+29,Deal_29,18134,Proposal,2026-02-03,Rep_8,North
+30,Deal_30,406953,Qualification,2026-06-29,Rep_9,South
+31,Deal_31,252042,Qualification,2025-06-21,Rep_0,East
+32,Deal_32,163099,Negotiation,2026-01-22,Rep_1,North
+33,Deal_33,270425,Closed Won,2025-01-31,Rep_2,East
+34,Deal_34,250437,Proposal,2026-03-29,Rep_3,South
+35,Deal_35,226689,Qualification,2025-07-09,Rep_4,East
+36,Deal_36,187387,Proposal,2026-08-10,Rep_5,North
+37,Deal_37,387174,Prospecting,2026-07-20,Rep_6,North
+38,Deal_38,63419,Closed Lost,2025-04-13,Rep_7,North
+39,Deal_39,201286,Proposal,2026-07-12,Rep_8,West
+40,Deal_40,52193,Qualification,2026-05-01,Rep_9,West
+41,Deal_41,101052,Prospecting,2024-12-26,Rep_0,North
+42,Deal_42,253234,Closed Lost,2025-07-26,Rep_1,West
+43,Deal_43,89647,Closed Won,2025-03-30,Rep_2,North
+44,Deal_44,64888,Closed Lost,2025-03-10,Rep_3,South
+45,Deal_45,378869,Negotiation,2026-04-19,Rep_4,North
+46,Deal_46,446731,Closed Won,2025-09-17,Rep_5,West
+47,Deal_47,364116,Proposal,2026-01-06,Rep_6,North
+48,Deal_48,242909,Closed Lost,2026-07-12,Rep_7,East
+49,Deal_49,300837,Prospecting,2025-04-07,Rep_8,East
+50,Deal_50,479911,Closed Lost,2025-03-27,Rep_9,West
+51,Deal_51,415475,Qualification,2025-09-14,Rep_0,West
+52,Deal_52,132536,Closed Won,2024-11-29,Rep_1,South
+53,Deal_53,417058,Negotiation,2025-12-07,Rep_2,South
+54,Deal_54,383590,Qualification,2026-05-01,Rep_3,North
+55,Deal_55,340679,Negotiation,2025-05-26,Rep_4,West
+56,Deal_56,341873,Qualification,2025-02-23,Rep_5,South
+57,Deal_57,250350,Prospecting,2025-09-16,Rep_6,West
+58,Deal_58,268117,Proposal,2024-11-22,Rep_7,West
+59,Deal_59,37148,Qualification,2025-04-26,Rep_8,North
+60,Deal_60,426684,Proposal,2025-12-09,Rep_9,North
+61,Deal_61,84658,Closed Won,2026-07-08,Rep_0,North
+62,Deal_62,61126,Closed Lost,2025-12-09,Rep_1,West
+63,Deal_63,488963,Prospecting,2026-03-30,Rep_2,East
+64,Deal_64,182540,Qualification,2024-12-17,Rep_3,South
+65,Deal_65,229886,Proposal,2026-09-10,Rep_4,South
+66,Deal_66,355440,Proposal,2026-09-02,Rep_5,North
+67,Deal_67,197617,Closed Lost,2025-10-04,Rep_6,South
+68,Deal_68,83570,Prospecting,2025-11-27,Rep_7,South
+69,Deal_69,79397,Proposal,2026-01-29,Rep_8,South
+70,Deal_70,347779,Qualification,2026-06-06,Rep_9,East
+71,Deal_71,136738,Proposal,2025-06-24,Rep_0,South
+72,Deal_72,263320,Prospecting,2026-04-14,Rep_1,South
+73,Deal_73,274875,Negotiation,2025-07-08,Rep_2,West
+74,Deal_74,234945,Negotiation,2026-03-25,Rep_3,South
+75,Deal_75,324573,Closed Won,2024-10-13,Rep_4,North
+76,Deal_76,451479,Prospecting,2026-07-28,Rep_5,North
+77,Deal_77,166367,Closed Won,2026-08-17,Rep_6,South
+78,Deal_78,438895,Proposal,2025-04-18,Rep_7,North
+79,Deal_79,190291,Qualification,2026-09-19,Rep_8,East
+80,Deal_80,454182,Closed Won,2025-06-18,Rep_9,South
+81,Deal_81,315658,Proposal,2026-09-25,Rep_0,South
+82,Deal_82,190590,Prospecting,2025-06-10,Rep_1,South
+83,Deal_83,398922,Closed Lost,2026-03-18,Rep_2,North
+84,Deal_84,187180,Qualification,2026-09-23,Rep_3,East
+85,Deal_85,470705,Closed Won,2026-07-16,Rep_4,East
+86,Deal_86,129324,Prospecting,2025-10-24,Rep_5,West
+87,Deal_87,86808,Closed Won,2026-07-06,Rep_6,South
+88,Deal_88,115798,Negotiation,2025-02-08,Rep_7,North
+89,Deal_89,15245,Closed Lost,2024-12-29,Rep_8,East
+90,Deal_90,263277,Closed Won,2026-07-05,Rep_9,East
+91,Deal_91,104257,Closed Lost,2025-10-15,Rep_0,West
+92,Deal_92,287343,Prospecting,2025-08-12,Rep_1,East
+93,Deal_93,131682,Negotiation,2026-09-07,Rep_2,East
+94,Deal_94,291239,Prospecting,2025-12-21,Rep_3,West
+95,Deal_95,438747,Qualification,2026-05-13,Rep_4,East
+96,Deal_96,361330,Negotiation,2025-10-03,Rep_5,North
+97,Deal_97,30761,Closed Lost,2025-02-27,Rep_6,East
+98,Deal_98,319158,Closed Won,2026-05-09,Rep_7,East
+99,Deal_99,158177,Closed Lost,2025-06-09,Rep_8,South
+100,Deal_100,421444,Closed Lost,2024-12-30,Rep_9,West

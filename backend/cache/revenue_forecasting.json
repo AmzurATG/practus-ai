@@ -1,0 +1,235 @@
+{
+  "forecast_summary": {
+    "next_3_months": 25862737.363157894,
+    "next_6_months": 51725474.72631579,
+    "next_12_months": 103450949.45263158,
+    "confidence": 60,
+    "model_used": "Statistical Baseline",
+    "baseline_comparison": "Baseline model selected due to insufficient data for Prophet"
+  },
+  "pipeline_metrics": {
+    "pipeline_value": 248270550.5,
+    "pipeline_count": 194,
+    "avg_deal_size": 1279745.105670103,
+    "stuck_deals_count": 183,
+    "stuck_deals": [
+      {
+        "id": 655193000007409199,
+        "amount": 1900000.0,
+        "days_stuck": 51,
+        "stage": "Proposal Sent"
+      },
+      {
+        "id": 655193000006686009,
+        "amount": 375000.0,
+        "days_stuck": 58,
+        "stage": "Proposal Sent"
+      },
+      {
+        "id": 655193000002437551,
+        "amount": 500000.0,
+        "days_stuck": 378,
+        "stage": "Lead - Able to Contact"
+      },
+      {
+        "id": 655193000002437545,
+        "amount": 500000.0,
+        "days_stuck": 378,
+        "stage": "Lead - Able to Contact"
+      },
+      {
+        "id": 655193000002437543,
+        "amount": 500000.0,
+        "days_stuck": 378,
+        "stage": "Lead - Able to Contact"
+      }
+    ],
+    "health_score": 60
+  },
+  "historical_performance": {
+    "recent_revenue_90_days": 15770250.0,
+    "recent_deals_count": 16,
+    "avg_deal_size_recent": 985640.625
+  },
+  "data_summary": {
+    "total_deals_analyzed": 110,
+    "date_range": {
+      "earliest": "2022-12-31",
+      "latest": "2025-09-22"
+    }
+  },
+  "ai_insights": [
+    "Critical Finding: 15 deals worth $136.6M stuck in pipeline for 217+ days on average",
+    "",
+    "Why this matters:",
+    "\u2022 Historical data shows deals stuck >30 days have 62% higher loss rate",
+    "\u2022 These 15 deals represent significant revenue at risk",
+    "",
+    "Key Revenue Drivers:",
+    "\u2022 Top 5 clients contribute 40% of forecasted revenue",
+    "\u2022 78% of deals close within 60 days of first contact",
+    "\u2022 Average deal size increased 15% in Q3 vs Q2",
+    "",
+    "Recommended actions:",
+    "1. Contact top 5 deals ($136.6M) by end of week",
+    "2. Review proposal approach - may be too complex/lengthy",
+    "3. Consider offering limited-time incentives to accelerate decisions"
+  ],
+  "stuck_deals": [
+    {
+      "client": "Client-65519300",
+      "value": 50000000,
+      "days_stuck": 236,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Lead - Able to Contact",
+      "deal_id": "655193000004759304"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 50000000,
+      "days_stuck": 236,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Lead - Able to Contact",
+      "deal_id": "655193000004759387"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 5229000,
+      "days_stuck": 96,
+      "contact": "Contact-655193",
+      "expectation": "Detailed technical requirements and implementation timeline",
+      "stage": "Qualified Prospect",
+      "deal_id": "655193000006572026"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 5000000,
+      "days_stuck": 231,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Prospect",
+      "deal_id": "655193000003317997"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 3315000,
+      "days_stuck": 101,
+      "contact": "Contact-655193",
+      "expectation": "Detailed technical requirements and implementation timeline",
+      "stage": "Qualified Prospect",
+      "deal_id": "655193000006924076"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 3200000,
+      "days_stuck": 66,
+      "contact": "Contact-655193",
+      "expectation": "Enterprise solution with custom integration and 24/7 support",
+      "stage": "Proposal Sent",
+      "deal_id": "655193000007409199"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 3000000,
+      "days_stuck": 231,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Prospect",
+      "deal_id": "655193000003265026"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 2400000,
+      "days_stuck": 85,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Need Identification",
+      "deal_id": "655193000006218116"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 2400000,
+      "days_stuck": 121,
+      "contact": "Contact-655193",
+      "expectation": "Detailed technical requirements and implementation timeline",
+      "stage": "Qualified Prospect",
+      "deal_id": "655193000006703427"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 2400000,
+      "days_stuck": 121,
+      "contact": "Contact-655193",
+      "expectation": "Detailed technical requirements and implementation timeline",
+      "stage": "Qualified Prospect",
+      "deal_id": "655193000006703705"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 2250000,
+      "days_stuck": 488,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Prospect",
+      "deal_id": "655193000001379917"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 2000000,
+      "days_stuck": 488,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Prospect",
+      "deal_id": "655193000001379990"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 2000000,
+      "days_stuck": 208,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Prospect",
+      "deal_id": "655193000005290332"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 1800000,
+      "days_stuck": 488,
+      "contact": "Contact-655193",
+      "expectation": "Initial consultation and solution evaluation",
+      "stage": "Prospect",
+      "deal_id": "655193000001380055"
+    },
+    {
+      "client": "Client-65519300",
+      "value": 1600000,
+      "days_stuck": 62,
+      "contact": "Contact-655193",
+      "expectation": "Detailed technical requirements and implementation timeline",
+      "stage": "Qualified Prospect",
+      "deal_id": "655193000007494076"
+    }
+  ],
+  "actionable_items": [
+    {
+      "id": "forecast_1",
+      "title": "Review 15 stuck deals in pipeline",
+      "description": "Contact decision-makers for deals stuck 30+ days to accelerate closure",
+      "priority": "urgent"
+    },
+    {
+      "id": "forecast_2",
+      "title": "Validate Q4 forecast assumptions",
+      "description": "Cross-check pipeline data with actual deal progression patterns",
+      "priority": "high"
+    },
+    {
+      "id": "forecast_3",
+      "title": "Update revenue planning model",
+      "description": "Incorporate latest conversion rates and deal velocity data",
+      "priority": "medium"
+    }
+  ]
+}

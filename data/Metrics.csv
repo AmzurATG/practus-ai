@@ -1,0 +1,17 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,S.NO,Problem statements,Metrics ,Data Sources
+,1,Limited visibility on future revenues for planning.,Statistical Forecast,"Deals Archive, Stage History Archive"
+,2,No clear view of deal drop-offs across stages.,Stage wise Conversion %,Stage History Archive
+,3,"Gaps in tracking actual effort vs budgeted, leading to overruns.",Actual Whizible timesheet vs Budgeted plotting ,Whizible Data
+,4,Lack of insight on client retention and repeat business.,Conversion effectiveness at company level,"Deals Archive, Stage History Archive"
+,5,Hiring and cost decisions are not data-driven.,Forecasting on hiring and cost,"Whizible Data, Plotting tool Data"
+,6,Increasing efficiency in delivery operations,What % of activities can be automated,"Whizible Data, Skill Mapping"
+,,,,
+,,,,
+,,Data Sources,,
+,,Deals Archive,,
+,,Stage History Archive,,
+,,Whizible Data,,
+,,Plotting tool Data,,
+,,Skill Mapping,,

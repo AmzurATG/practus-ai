@@ -1,0 +1,5743 @@
+{
+  "variance_summary": {
+    "total_projects_analyzed": 104,
+    "overrun_projects": 63,
+    "avg_variance_pct": 252.28,
+    "total_variance_hours": 198835.99,
+    "at_risk_projects": [
+      {
+        "Project name": "98",
+        "Actual_Hours": 310.1,
+        "Budgeted_Hours_Per_Month": 8.8,
+        "Variance_Percentage": 3423.86,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "32",
+        "Actual_Hours": 1589.0,
+        "Budgeted_Hours_Per_Month": 88.0,
+        "Variance_Percentage": 1705.68,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "69",
+        "Actual_Hours": 926.0,
+        "Budgeted_Hours_Per_Month": 52.8,
+        "Variance_Percentage": 1653.79,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "42",
+        "Actual_Hours": 2317.0,
+        "Budgeted_Hours_Per_Month": 135.52,
+        "Variance_Percentage": 1609.71,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "53",
+        "Actual_Hours": 1642.75,
+        "Budgeted_Hours_Per_Month": 96.8,
+        "Variance_Percentage": 1597.06,
+        "Status": "Overrun"
+      }
+    ],
+    "overrun_rate": 60.58
+  },
+  "breakdown_analysis": {
+    "by_project": [
+      {
+        "Project name": "1",
+        "Actual_Hours": 72.0,
+        "Budgeted_Hours_Per_Month": 88.0,
+        "Variance_Hours": -16.0,
+        "Variance_Percentage": -18.18,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "10",
+        "Actual_Hours": 343.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 343.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "100",
+        "Actual_Hours": 1821.5,
+        "Budgeted_Hours_Per_Month": 774.4,
+        "Variance_Hours": 1047.1,
+        "Variance_Percentage": 135.21,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "101",
+        "Actual_Hours": 139.0,
+        "Budgeted_Hours_Per_Month": 74.8,
+        "Variance_Hours": 64.2,
+        "Variance_Percentage": 85.83,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "102",
+        "Actual_Hours": 0.0,
+        "Budgeted_Hours_Per_Month": 17.6,
+        "Variance_Hours": -17.6,
+        "Variance_Percentage": -100.0,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "105",
+        "Actual_Hours": 0.0,
+        "Budgeted_Hours_Per_Month": 52.8,
+        "Variance_Hours": -52.8,
+        "Variance_Percentage": -100.0,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "106",
+        "Actual_Hours": 0.0,
+        "Budgeted_Hours_Per_Month": 17.6,
+        "Variance_Hours": -17.6,
+        "Variance_Percentage": -100.0,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "107",
+        "Actual_Hours": 0.0,
+        "Budgeted_Hours_Per_Month": 61.6,
+        "Variance_Hours": -61.6,
+        "Variance_Percentage": -100.0,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "109",
+        "Actual_Hours": 0.0,
+        "Budgeted_Hours_Per_Month": 88.0,
+        "Variance_Hours": -88.0,
+        "Variance_Percentage": -100.0,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "11",
+        "Actual_Hours": 3033.21,
+        "Budgeted_Hours_Per_Month": 671.55,
+        "Variance_Hours": 2361.66,
+        "Variance_Percentage": 351.68,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "12",
+        "Actual_Hours": 385.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 385.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "13",
+        "Actual_Hours": 12603.96,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 12603.96,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "14",
+        "Actual_Hours": 517.32,
+        "Budgeted_Hours_Per_Month": 234.67,
+        "Variance_Hours": 282.65,
+        "Variance_Percentage": 120.45,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "15",
+        "Actual_Hours": 11375.56,
+        "Budgeted_Hours_Per_Month": 1774.08,
+        "Variance_Hours": 9601.48,
+        "Variance_Percentage": 541.21,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "16",
+        "Actual_Hours": 8013.0,
+        "Budgeted_Hours_Per_Month": 1795.2,
+        "Variance_Hours": 6217.8,
+        "Variance_Percentage": 346.36,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "17",
+        "Actual_Hours": 811.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 811.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "18",
+        "Actual_Hours": 1918.75,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 1918.75,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "19",
+        "Actual_Hours": 560.5,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 560.5,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "2",
+        "Actual_Hours": 46547.58,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 46547.58,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "20",
+        "Actual_Hours": 853.4,
+        "Budgeted_Hours_Per_Month": 343.2,
+        "Variance_Hours": 510.2,
+        "Variance_Percentage": 148.66,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "21",
+        "Actual_Hours": 1642.25,
+        "Budgeted_Hours_Per_Month": 464.64,
+        "Variance_Hours": 1177.61,
+        "Variance_Percentage": 253.45,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "22",
+        "Actual_Hours": 2166.0,
+        "Budgeted_Hours_Per_Month": 1108.8,
+        "Variance_Hours": 1057.2,
+        "Variance_Percentage": 95.35,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "23",
+        "Actual_Hours": 182.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 182.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "24",
+        "Actual_Hours": 504.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 504.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "25",
+        "Actual_Hours": 2796.5,
+        "Budgeted_Hours_Per_Month": 774.4,
+        "Variance_Hours": 2022.1,
+        "Variance_Percentage": 261.12,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "26",
+        "Actual_Hours": 48.5,
+        "Budgeted_Hours_Per_Month": 7.04,
+        "Variance_Hours": 41.46,
+        "Variance_Percentage": 588.92,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "27",
+        "Actual_Hours": 295.1,
+        "Budgeted_Hours_Per_Month": 171.6,
+        "Variance_Hours": 123.5,
+        "Variance_Percentage": 71.97,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "28",
+        "Actual_Hours": 9831.75,
+        "Budgeted_Hours_Per_Month": 1478.4,
+        "Variance_Hours": 8353.35,
+        "Variance_Percentage": 565.03,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "29",
+        "Actual_Hours": 366.0,
+        "Budgeted_Hours_Per_Month": 277.2,
+        "Variance_Hours": 88.8,
+        "Variance_Percentage": 32.03,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "3",
+        "Actual_Hours": 299.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 299.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "30",
+        "Actual_Hours": 1915.76,
+        "Budgeted_Hours_Per_Month": 1161.6,
+        "Variance_Hours": 754.16,
+        "Variance_Percentage": 64.92,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "31",
+        "Actual_Hours": 2140.75,
+        "Budgeted_Hours_Per_Month": 1161.6,
+        "Variance_Hours": 979.15,
+        "Variance_Percentage": 84.29,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "32",
+        "Actual_Hours": 1589.0,
+        "Budgeted_Hours_Per_Month": 88.0,
+        "Variance_Hours": 1501.0,
+        "Variance_Percentage": 1705.68,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "33",
+        "Actual_Hours": 3688.05,
+        "Budgeted_Hours_Per_Month": 818.4,
+        "Variance_Hours": 2869.65,
+        "Variance_Percentage": 350.64,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "34",
+        "Actual_Hours": 301.0,
+        "Budgeted_Hours_Per_Month": 277.2,
+        "Variance_Hours": 23.8,
+        "Variance_Percentage": 8.59,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "35",
+        "Actual_Hours": 399.0,
+        "Budgeted_Hours_Per_Month": 844.8,
+        "Variance_Hours": -445.8,
+        "Variance_Percentage": -52.77,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "36",
+        "Actual_Hours": 59.0,
+        "Budgeted_Hours_Per_Month": 81.55,
+        "Variance_Hours": -22.55,
+        "Variance_Percentage": -27.65,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "37",
+        "Actual_Hours": 864.58,
+        "Budgeted_Hours_Per_Month": 52.8,
+        "Variance_Hours": 811.78,
+        "Variance_Percentage": 1537.46,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "38",
+        "Actual_Hours": 2033.5,
+        "Budgeted_Hours_Per_Month": 809.6,
+        "Variance_Hours": 1223.9,
+        "Variance_Percentage": 151.17,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "39",
+        "Actual_Hours": 230.0,
+        "Budgeted_Hours_Per_Month": 73.92,
+        "Variance_Hours": 156.08,
+        "Variance_Percentage": 211.15,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "4",
+        "Actual_Hours": 2311.5,
+        "Budgeted_Hours_Per_Month": 309.76,
+        "Variance_Hours": 2001.74,
+        "Variance_Percentage": 646.22,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "40",
+        "Actual_Hours": 31.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 31.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "41",
+        "Actual_Hours": 823.0,
+        "Budgeted_Hours_Per_Month": 264.0,
+        "Variance_Hours": 559.0,
+        "Variance_Percentage": 211.74,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "42",
+        "Actual_Hours": 2317.0,
+        "Budgeted_Hours_Per_Month": 135.52,
+        "Variance_Hours": 2181.48,
+        "Variance_Percentage": 1609.71,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "43",
+        "Actual_Hours": 33.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 33.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "44",
+        "Actual_Hours": 834.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 834.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "45",
+        "Actual_Hours": 2087.25,
+        "Budgeted_Hours_Per_Month": 489.28,
+        "Variance_Hours": 1597.97,
+        "Variance_Percentage": 326.6,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "46",
+        "Actual_Hours": 1755.0,
+        "Budgeted_Hours_Per_Month": 246.4,
+        "Variance_Hours": 1508.6,
+        "Variance_Percentage": 612.26,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "47",
+        "Actual_Hours": 901.0,
+        "Budgeted_Hours_Per_Month": 126.72,
+        "Variance_Hours": 774.28,
+        "Variance_Percentage": 611.02,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "48",
+        "Actual_Hours": 1547.66,
+        "Budgeted_Hours_Per_Month": 1613.33,
+        "Variance_Hours": -65.67,
+        "Variance_Percentage": -4.07,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "49",
+        "Actual_Hours": 1941.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 1941.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "5",
+        "Actual_Hours": 861.5,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 861.5,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "51",
+        "Actual_Hours": 1122.0,
+        "Budgeted_Hours_Per_Month": 105.6,
+        "Variance_Hours": 1016.4,
+        "Variance_Percentage": 962.5,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "52",
+        "Actual_Hours": 545.0,
+        "Budgeted_Hours_Per_Month": 352.0,
+        "Variance_Hours": 193.0,
+        "Variance_Percentage": 54.83,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "53",
+        "Actual_Hours": 1642.75,
+        "Budgeted_Hours_Per_Month": 96.8,
+        "Variance_Hours": 1545.95,
+        "Variance_Percentage": 1597.06,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "54",
+        "Actual_Hours": 44.0,
+        "Budgeted_Hours_Per_Month": 52.8,
+        "Variance_Hours": -8.8,
+        "Variance_Percentage": -16.67,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "55",
+        "Actual_Hours": 338.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 338.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "56",
+        "Actual_Hours": 1324.5,
+        "Budgeted_Hours_Per_Month": 767.36,
+        "Variance_Hours": 557.14,
+        "Variance_Percentage": 72.6,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "57",
+        "Actual_Hours": 732.16,
+        "Budgeted_Hours_Per_Month": 302.72,
+        "Variance_Hours": 429.44,
+        "Variance_Percentage": 141.86,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "58",
+        "Actual_Hours": 1310.0,
+        "Budgeted_Hours_Per_Month": 246.4,
+        "Variance_Hours": 1063.6,
+        "Variance_Percentage": 431.66,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "59",
+        "Actual_Hours": 2268.0,
+        "Budgeted_Hours_Per_Month": 357.28,
+        "Variance_Hours": 1910.72,
+        "Variance_Percentage": 534.8,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "6",
+        "Actual_Hours": 416.5,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 416.5,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "60",
+        "Actual_Hours": 740.0,
+        "Budgeted_Hours_Per_Month": 195.8,
+        "Variance_Hours": 544.2,
+        "Variance_Percentage": 277.94,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "61",
+        "Actual_Hours": 1758.0,
+        "Budgeted_Hours_Per_Month": 520.67,
+        "Variance_Hours": 1237.33,
+        "Variance_Percentage": 237.64,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "62",
+        "Actual_Hours": 14.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 14.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "63",
+        "Actual_Hours": 1027.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 1027.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "64",
+        "Actual_Hours": 6080.25,
+        "Budgeted_Hours_Per_Month": 999.9,
+        "Variance_Hours": 5080.35,
+        "Variance_Percentage": 508.09,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "65",
+        "Actual_Hours": 3011.0,
+        "Budgeted_Hours_Per_Month": 1108.8,
+        "Variance_Hours": 1902.2,
+        "Variance_Percentage": 171.55,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "66",
+        "Actual_Hours": 202.5,
+        "Budgeted_Hours_Per_Month": 158.4,
+        "Variance_Hours": 44.1,
+        "Variance_Percentage": 27.84,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "67",
+        "Actual_Hours": 149.75,
+        "Budgeted_Hours_Per_Month": 105.6,
+        "Variance_Hours": 44.15,
+        "Variance_Percentage": 41.81,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "68",
+        "Actual_Hours": 510.43,
+        "Budgeted_Hours_Per_Month": 184.8,
+        "Variance_Hours": 325.63,
+        "Variance_Percentage": 176.21,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "69",
+        "Actual_Hours": 926.0,
+        "Budgeted_Hours_Per_Month": 52.8,
+        "Variance_Hours": 873.2,
+        "Variance_Percentage": 1653.79,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "7",
+        "Actual_Hours": 5092.92,
+        "Budgeted_Hours_Per_Month": 1003.2,
+        "Variance_Hours": 4089.72,
+        "Variance_Percentage": 407.67,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "70",
+        "Actual_Hours": 1875.5,
+        "Budgeted_Hours_Per_Month": 1108.8,
+        "Variance_Hours": 766.7,
+        "Variance_Percentage": 69.15,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "71",
+        "Actual_Hours": 679.0,
+        "Budgeted_Hours_Per_Month": 533.28,
+        "Variance_Hours": 145.72,
+        "Variance_Percentage": 27.33,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "72",
+        "Actual_Hours": 449.33,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 449.33,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "73",
+        "Actual_Hours": 1752.25,
+        "Budgeted_Hours_Per_Month": 457.6,
+        "Variance_Hours": 1294.65,
+        "Variance_Percentage": 282.92,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "75",
+        "Actual_Hours": 16727.04,
+        "Budgeted_Hours_Per_Month": 1680.0,
+        "Variance_Hours": 15047.04,
+        "Variance_Percentage": 895.66,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "76",
+        "Actual_Hours": 608.5,
+        "Budgeted_Hours_Per_Month": 281.6,
+        "Variance_Hours": 326.9,
+        "Variance_Percentage": 116.09,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "77",
+        "Actual_Hours": 16206.75,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 16206.75,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "78",
+        "Actual_Hours": 1075.5,
+        "Budgeted_Hours_Per_Month": 440.0,
+        "Variance_Hours": 635.5,
+        "Variance_Percentage": 144.43,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "79",
+        "Actual_Hours": 10918.34,
+        "Budgeted_Hours_Per_Month": 1468.8,
+        "Variance_Hours": 9449.54,
+        "Variance_Percentage": 643.35,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "8",
+        "Actual_Hours": 5712.5,
+        "Budgeted_Hours_Per_Month": 1122.0,
+        "Variance_Hours": 4590.5,
+        "Variance_Percentage": 409.14,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "80",
+        "Actual_Hours": 1215.5,
+        "Budgeted_Hours_Per_Month": 366.08,
+        "Variance_Hours": 849.42,
+        "Variance_Percentage": 232.03,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "81",
+        "Actual_Hours": 139.0,
+        "Budgeted_Hours_Per_Month": 93.87,
+        "Variance_Hours": 45.13,
+        "Variance_Percentage": 48.08,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "82",
+        "Actual_Hours": 312.0,
+        "Budgeted_Hours_Per_Month": 220.0,
+        "Variance_Hours": 92.0,
+        "Variance_Percentage": 41.82,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "83",
+        "Actual_Hours": 1198.5,
+        "Budgeted_Hours_Per_Month": 281.6,
+        "Variance_Hours": 916.9,
+        "Variance_Percentage": 325.6,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "84",
+        "Actual_Hours": 1100.0,
+        "Budgeted_Hours_Per_Month": 211.2,
+        "Variance_Hours": 888.8,
+        "Variance_Percentage": 420.83,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "85",
+        "Actual_Hours": 1935.5,
+        "Budgeted_Hours_Per_Month": 1077.12,
+        "Variance_Hours": 858.38,
+        "Variance_Percentage": 79.69,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "86",
+        "Actual_Hours": 743.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 743.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "87",
+        "Actual_Hours": 784.0,
+        "Budgeted_Hours_Per_Month": 1056.0,
+        "Variance_Hours": -272.0,
+        "Variance_Percentage": -25.76,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "88",
+        "Actual_Hours": 1985.0,
+        "Budgeted_Hours_Per_Month": 1267.2,
+        "Variance_Hours": 717.8,
+        "Variance_Percentage": 56.64,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "89",
+        "Actual_Hours": 1020.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 1020.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "9",
+        "Actual_Hours": 2128.0,
+        "Budgeted_Hours_Per_Month": 856.53,
+        "Variance_Hours": 1271.47,
+        "Variance_Percentage": 148.44,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "90",
+        "Actual_Hours": 389.5,
+        "Budgeted_Hours_Per_Month": 98.56,
+        "Variance_Hours": 290.94,
+        "Variance_Percentage": 295.19,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "91",
+        "Actual_Hours": 450.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 450.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "92",
+        "Actual_Hours": 497.0,
+        "Budgeted_Hours_Per_Month": 218.24,
+        "Variance_Hours": 278.76,
+        "Variance_Percentage": 127.73,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "93",
+        "Actual_Hours": 886.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 886.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "94",
+        "Actual_Hours": 222.25,
+        "Budgeted_Hours_Per_Month": 281.6,
+        "Variance_Hours": -59.35,
+        "Variance_Percentage": -21.08,
+        "Status": "Underutilized"
+      },
+      {
+        "Project name": "95",
+        "Actual_Hours": 19.5,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 19.5,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "96",
+        "Actual_Hours": 16.0,
+        "Budgeted_Hours_Per_Month": 0.0,
+        "Variance_Hours": 16.0,
+        "Variance_Percentage": 0.0,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "97",
+        "Actual_Hours": 324.0,
+        "Budgeted_Hours_Per_Month": 316.8,
+        "Variance_Hours": 7.2,
+        "Variance_Percentage": 2.27,
+        "Status": "On Budget"
+      },
+      {
+        "Project name": "98",
+        "Actual_Hours": 310.1,
+        "Budgeted_Hours_Per_Month": 8.8,
+        "Variance_Hours": 301.3,
+        "Variance_Percentage": 3423.86,
+        "Status": "Overrun"
+      },
+      {
+        "Project name": "99",
+        "Actual_Hours": 2160.5,
+        "Budgeted_Hours_Per_Month": 1161.6,
+        "Variance_Hours": 998.9,
+        "Variance_Percentage": 85.99,
+        "Status": "Overrun"
+      }
+    ],
+    "by_task_type": {
+      "task_summary": [
+        {
+          "TaskType": "Operational",
+          "Total_Hours": 71369.15,
+          "Avg_Hours_Per_Entry": 3.75,
+          "Entry_Count": 19030,
+          "Project_Count": 59,
+          "Hours_Per_Project": 1209.65
+        },
+        {
+          "TaskType": "Intermediate",
+          "Total_Hours": 48719.95,
+          "Avg_Hours_Per_Entry": 3.56,
+          "Entry_Count": 13690,
+          "Project_Count": 46,
+          "Hours_Per_Project": 1059.13
+        },
+        {
+          "TaskType": "Advance",
+          "Total_Hours": 42370.82,
+          "Avg_Hours_Per_Entry": 4.47,
+          "Entry_Count": 9477,
+          "Project_Count": 47,
+          "Hours_Per_Project": 901.51
+        },
+        {
+          "TaskType": "Global Tasks",
+          "Total_Hours": 16206.75,
+          "Avg_Hours_Per_Entry": 4.62,
+          "Entry_Count": 3511,
+          "Project_Count": 1,
+          "Hours_Per_Project": 16206.75
+        },
+        {
+          "TaskType": "Idle Time",
+          "Total_Hours": 13953.23,
+          "Avg_Hours_Per_Entry": 5.11,
+          "Entry_Count": 2729,
+          "Project_Count": 1,
+          "Hours_Per_Project": 13953.23
+        },
+        {
+          "TaskType": "Pre Sales Work & Sales Meetings",
+          "Total_Hours": 11303.25,
+          "Avg_Hours_Per_Entry": 5.57,
+          "Entry_Count": 2031,
+          "Project_Count": 1,
+          "Hours_Per_Project": 11303.25
+        },
+        {
+          "TaskType": "Leave",
+          "Total_Hours": 8264.0,
+          "Avg_Hours_Per_Entry": 8.31,
+          "Entry_Count": 994,
+          "Project_Count": 1,
+          "Hours_Per_Project": 8264.0
+        },
+        {
+          "TaskType": "Practus Internal Projects",
+          "Total_Hours": 7643.6,
+          "Avg_Hours_Per_Entry": 4.74,
+          "Entry_Count": 1611,
+          "Project_Count": 2,
+          "Hours_Per_Project": 3821.8
+        },
+        {
+          "TaskType": "Induction self learnings and other trainings",
+          "Total_Hours": 4047.25,
+          "Avg_Hours_Per_Entry": 5.49,
+          "Entry_Count": 737,
+          "Project_Count": 1,
+          "Hours_Per_Project": 4047.25
+        },
+        {
+          "TaskType": "US - Idle - Non Delivery Cost - Idle time",
+          "Total_Hours": 3228.0,
+          "Avg_Hours_Per_Entry": 4.42,
+          "Entry_Count": 731,
+          "Project_Count": 1,
+          "Hours_Per_Project": 3228.0
+        },
+        {
+          "TaskType": "US - Idle - Non Delivery Cost - Leaves - Paid",
+          "Total_Hours": 3021.66,
+          "Avg_Hours_Per_Entry": 8.49,
+          "Entry_Count": 356,
+          "Project_Count": 1,
+          "Hours_Per_Project": 3021.66
+        },
+        {
+          "TaskType": "US - Idle - Non Delivery Cost - National Holidays",
+          "Total_Hours": 1653.5,
+          "Avg_Hours_Per_Entry": 8.89,
+          "Entry_Count": 186,
+          "Project_Count": 1,
+          "Hours_Per_Project": 1653.5
+        },
+        {
+          "TaskType": "US-Others",
+          "Total_Hours": 1291.0,
+          "Avg_Hours_Per_Entry": 6.12,
+          "Entry_Count": 211,
+          "Project_Count": 1,
+          "Hours_Per_Project": 1291.0
+        },
+        {
+          "TaskType": "US - Idle - Non Delivery Cost - Maternity Leave",
+          "Total_Hours": 1026.0,
+          "Avg_Hours_Per_Entry": 9.0,
+          "Entry_Count": 114,
+          "Project_Count": 1,
+          "Hours_Per_Project": 1026.0
+        },
+        {
+          "TaskType": "Presales Global Project",
+          "Total_Hours": 743.0,
+          "Avg_Hours_Per_Entry": 2.97,
+          "Entry_Count": 250,
+          "Project_Count": 1,
+          "Hours_Per_Project": 743.0
+        },
+        {
+          "TaskType": "Practus Events Offsite Sports HR Events",
+          "Total_Hours": 529.25,
+          "Avg_Hours_Per_Entry": 4.86,
+          "Entry_Count": 109,
+          "Project_Count": 1,
+          "Hours_Per_Project": 529.25
+        },
+        {
+          "TaskType": "Learning & Development-Trainee - Online Learning",
+          "Total_Hours": 441.0,
+          "Avg_Hours_Per_Entry": 3.59,
+          "Entry_Count": 123,
+          "Project_Count": 1,
+          "Hours_Per_Project": 441.0
+        },
+        {
+          "TaskType": "Gurukool Trainings",
+          "Total_Hours": 394.0,
+          "Avg_Hours_Per_Entry": 2.94,
+          "Entry_Count": 134,
+          "Project_Count": 1,
+          "Hours_Per_Project": 394.0
+        },
+        {
+          "TaskType": "Internal Training Call-Trainee - Online Learning",
+          "Total_Hours": 357.0,
+          "Avg_Hours_Per_Entry": 5.1,
+          "Entry_Count": 70,
+          "Project_Count": 1,
+          "Hours_Per_Project": 357.0
+        },
+        {
+          "TaskType": "US - Pre Sales",
+          "Total_Hours": 315.0,
+          "Avg_Hours_Per_Entry": 2.94,
+          "Entry_Count": 107,
+          "Project_Count": 1,
+          "Hours_Per_Project": 315.0
+        },
+        {
+          "TaskType": "MFP Sessions",
+          "Total_Hours": 251.0,
+          "Avg_Hours_Per_Entry": 1.16,
+          "Entry_Count": 216,
+          "Project_Count": 1,
+          "Hours_Per_Project": 251.0
+        },
+        {
+          "TaskType": "Review",
+          "Total_Hours": 232.04,
+          "Avg_Hours_Per_Entry": 2.15,
+          "Entry_Count": 108,
+          "Project_Count": 14,
+          "Hours_Per_Project": 16.57
+        },
+        {
+          "TaskType": "Internal Training Call-Trainer - Online Learning",
+          "Total_Hours": 212.5,
+          "Avg_Hours_Per_Entry": 3.32,
+          "Entry_Count": 64,
+          "Project_Count": 1,
+          "Hours_Per_Project": 212.5
+        },
+        {
+          "TaskType": "US Meet",
+          "Total_Hours": 189.5,
+          "Avg_Hours_Per_Entry": 8.24,
+          "Entry_Count": 23,
+          "Project_Count": 1,
+          "Hours_Per_Project": 189.5
+        },
+        {
+          "TaskType": "US - Learning & Development - Non Delivery Cost - Other learning",
+          "Total_Hours": 181.0,
+          "Avg_Hours_Per_Entry": 3.23,
+          "Entry_Count": 56,
+          "Project_Count": 1,
+          "Hours_Per_Project": 181.0
+        },
+        {
+          "TaskType": "Team Engagement Discussion Call - Recurring",
+          "Total_Hours": 144.2,
+          "Avg_Hours_Per_Entry": 0.72,
+          "Entry_Count": 200,
+          "Project_Count": 1,
+          "Hours_Per_Project": 144.2
+        },
+        {
+          "TaskType": "Internal Training Call-Trainer - Other learning",
+          "Total_Hours": 143.0,
+          "Avg_Hours_Per_Entry": 2.8,
+          "Entry_Count": 51,
+          "Project_Count": 1,
+          "Hours_Per_Project": 143.0
+        },
+        {
+          "TaskType": "Interviews",
+          "Total_Hours": 134.5,
+          "Avg_Hours_Per_Entry": 2.28,
+          "Entry_Count": 59,
+          "Project_Count": 3,
+          "Hours_Per_Project": 44.83
+        },
+        {
+          "TaskType": "BSC Reviews",
+          "Total_Hours": 112.5,
+          "Avg_Hours_Per_Entry": 1.94,
+          "Entry_Count": 58,
+          "Project_Count": 1,
+          "Hours_Per_Project": 112.5
+        },
+        {
+          "TaskType": "Learning & Development-Trainee - Other learning",
+          "Total_Hours": 90.5,
+          "Avg_Hours_Per_Entry": 2.32,
+          "Entry_Count": 39,
+          "Project_Count": 1,
+          "Hours_Per_Project": 90.5
+        },
+        {
+          "TaskType": "Internal Training Call-Trainee - Other learning",
+          "Total_Hours": 60.5,
+          "Avg_Hours_Per_Entry": 3.56,
+          "Entry_Count": 17,
+          "Project_Count": 1,
+          "Hours_Per_Project": 60.5
+        },
+        {
+          "TaskType": "US - Internal Automation - Non Delivery Cost",
+          "Total_Hours": 54.0,
+          "Avg_Hours_Per_Entry": 6.0,
+          "Entry_Count": 9,
+          "Project_Count": 1,
+          "Hours_Per_Project": 54.0
+        },
+        {
+          "TaskType": "Quarterly MFP Calls - Recurring",
+          "Total_Hours": 52.75,
+          "Avg_Hours_Per_Entry": 1.26,
+          "Entry_Count": 42,
+          "Project_Count": 1,
+          "Hours_Per_Project": 52.75
+        },
+        {
+          "TaskType": "HR Calls - Adhoc",
+          "Total_Hours": 34.5,
+          "Avg_Hours_Per_Entry": 1.5,
+          "Entry_Count": 23,
+          "Project_Count": 1,
+          "Hours_Per_Project": 34.5
+        },
+        {
+          "TaskType": "US - Team Mgmt - Recruiting - Non Delivery Cost - Adhoc",
+          "Total_Hours": 26.35,
+          "Avg_Hours_Per_Entry": 0.85,
+          "Entry_Count": 31,
+          "Project_Count": 1,
+          "Hours_Per_Project": 26.35
+        },
+        {
+          "TaskType": "US - Idle - Non Delivery Cost - Leaves - Unpaid",
+          "Total_Hours": 22.5,
+          "Avg_Hours_Per_Entry": 5.62,
+          "Entry_Count": 4,
+          "Project_Count": 1,
+          "Hours_Per_Project": 22.5
+        },
+        {
+          "TaskType": "BSC Related Calls - Adhoc",
+          "Total_Hours": 18.5,
+          "Avg_Hours_Per_Entry": 1.42,
+          "Entry_Count": 13,
+          "Project_Count": 1,
+          "Hours_Per_Project": 18.5
+        },
+        {
+          "TaskType": "Daily Team Huddle Call - Recurring",
+          "Total_Hours": 17.0,
+          "Avg_Hours_Per_Entry": 0.77,
+          "Entry_Count": 22,
+          "Project_Count": 2,
+          "Hours_Per_Project": 8.5
+        },
+        {
+          "TaskType": "Internal Training Call-Trainee - Gurukul",
+          "Total_Hours": 13.0,
+          "Avg_Hours_Per_Entry": 3.25,
+          "Entry_Count": 4,
+          "Project_Count": 1,
+          "Hours_Per_Project": 13.0
+        },
+        {
+          "TaskType": "US - Learning & Development - Non Delivery Cost - Gurukul",
+          "Total_Hours": 10.5,
+          "Avg_Hours_Per_Entry": 3.5,
+          "Entry_Count": 3,
+          "Project_Count": 1,
+          "Hours_Per_Project": 10.5
+        },
+        {
+          "TaskType": "US - Function Review Calls - Non Delivery Cost - Recurring",
+          "Total_Hours": 6.5,
+          "Avg_Hours_Per_Entry": 1.62,
+          "Entry_Count": 4,
+          "Project_Count": 1,
+          "Hours_Per_Project": 6.5
+        }
+      ],
+      "top_task_types": [
+        {
+          "TaskType": "Operational",
+          "Total_Hours": 71369.15,
+          "Avg_Hours_Per_Entry": 3.75,
+          "Entry_Count": 19030,
+          "Project_Count": 59,
+          "Hours_Per_Project": 1209.65
+        },
+        {
+          "TaskType": "Intermediate",
+          "Total_Hours": 48719.95,
+          "Avg_Hours_Per_Entry": 3.56,
+          "Entry_Count": 13690,
+          "Project_Count": 46,
+          "Hours_Per_Project": 1059.13
+        },
+        {
+          "TaskType": "Advance",
+          "Total_Hours": 42370.82,
+          "Avg_Hours_Per_Entry": 4.47,
+          "Entry_Count": 9477,
+          "Project_Count": 47,
+          "Hours_Per_Project": 901.51
+        },
+        {
+          "TaskType": "Global Tasks",
+          "Total_Hours": 16206.75,
+          "Avg_Hours_Per_Entry": 4.62,
+          "Entry_Count": 3511,
+          "Project_Count": 1,
+          "Hours_Per_Project": 16206.75
+        },
+        {
+          "TaskType": "Idle Time",
+          "Total_Hours": 13953.23,
+          "Avg_Hours_Per_Entry": 5.11,
+          "Entry_Count": 2729,
+          "Project_Count": 1,
+          "Hours_Per_Project": 13953.23
+        },
+        {
+          "TaskType": "Pre Sales Work & Sales Meetings",
+          "Total_Hours": 11303.25,
+          "Avg_Hours_Per_Entry": 5.57,
+          "Entry_Count": 2031,
+          "Project_Count": 1,
+          "Hours_Per_Project": 11303.25
+        },
+        {
+          "TaskType": "Leave",
+          "Total_Hours": 8264.0,
+          "Avg_Hours_Per_Entry": 8.31,
+          "Entry_Count": 994,
+          "Project_Count": 1,
+          "Hours_Per_Project": 8264.0
+        },
+        {
+          "TaskType": "Practus Internal Projects",
+          "Total_Hours": 7643.6,
+          "Avg_Hours_Per_Entry": 4.74,
+          "Entry_Count": 1611,
+          "Project_Count": 2,
+          "Hours_Per_Project": 3821.8
+        },
+        {
+          "TaskType": "Induction self learnings and other trainings",
+          "Total_Hours": 4047.25,
+          "Avg_Hours_Per_Entry": 5.49,
+          "Entry_Count": 737,
+          "Project_Count": 1,
+          "Hours_Per_Project": 4047.25
+        },
+        {
+          "TaskType": "US - Idle - Non Delivery Cost - Idle time",
+          "Total_Hours": 3228.0,
+          "Avg_Hours_Per_Entry": 4.42,
+          "Entry_Count": 731,
+          "Project_Count": 1,
+          "Hours_Per_Project": 3228.0
+        }
+      ],
+      "idle_time_analysis": {
+        "total_idle_hours": 13953.23,
+        "idle_employees": 66,
+        "idle_projects": 1,
+        "top_idle_employees": {
+          "WAPL-MC-E0656": 926.5,
+          "WAPL-MC-E0642": 890.0,
+          "WAPL-MC-E0514": 872.5,
+          "WAPL-MC-E0613": 770.5,
+          "WAPL-MC-E0634": 624.0
+        },
+        "top_idle_projects": {
+          "2": 13953.23
+        }
+      }
+    },
+    "by_resource": {
+      "resource_summary": [
+        {
+          "EmployeeCode": " WAPL-MC-E0677",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "1",
+          "Total_Hours": 688.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 53.33,
+          "Resource Code": "1",
+          "Avg_Allocation": 24.17,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "ADMIN",
+          "Total_Hours": 4.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "OUTSOURCE5",
+          "Total_Hours": 1931.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "OUTSOURCE5",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-A0060",
+          "Total_Hours": 1735.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 5.0,
+          "Idle_Percentage": 50.0,
+          "Resource Code": "WAPL-MC-A0060",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-A0061",
+          "Total_Hours": 1404.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 3.0,
+          "Idle_Percentage": 50.0,
+          "Resource Code": "WAPL-MC-A0061",
+          "Avg_Allocation": 56.67,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-A0062",
+          "Total_Hours": 720.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0098",
+          "Total_Hours": 2018.16,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0098",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0176",
+          "Total_Hours": 1685.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 49.0,
+          "Idle_Percentage": 90.74,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0182",
+          "Total_Hours": 1998.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 16.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": "WAPL-MC-C0182",
+          "Avg_Allocation": 67.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0204",
+          "Total_Hours": 1044.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0205",
+          "Total_Hours": 1206.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0225",
+          "Total_Hours": 1980.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0225",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0227",
+          "Total_Hours": 2079.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0227",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0231",
+          "Total_Hours": 612.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0235",
+          "Total_Hours": 2006.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0263",
+          "Total_Hours": 1213.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0263",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0271",
+          "Total_Hours": 480.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0271",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0046",
+          "Total_Hours": 610.5,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0046",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0118",
+          "Total_Hours": 1833.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0118",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0151",
+          "Total_Hours": 205.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 21.0,
+          "Idle_Percentage": 75.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0172",
+          "Total_Hours": 1891.5,
+          "Project_Count": 11.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0172",
+          "Avg_Allocation": 13.75,
+          "Allocated_Projects": 8.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0178",
+          "Total_Hours": 613.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0209",
+          "Total_Hours": 1908.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0209",
+          "Avg_Allocation": 33.33,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0231",
+          "Total_Hours": 1915.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0231",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0244",
+          "Total_Hours": 920.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 90.0,
+          "Idle_Percentage": 96.77,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0257",
+          "Total_Hours": 1803.5,
+          "Project_Count": 10.0,
+          "Idle_Entries": 81.0,
+          "Idle_Percentage": 89.01,
+          "Resource Code": "WAPL-MC-E0257",
+          "Avg_Allocation": 16.43,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0271",
+          "Total_Hours": 2160.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0271",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0272",
+          "Total_Hours": 1767.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 92.86,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0312",
+          "Total_Hours": 1803.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0312",
+          "Avg_Allocation": 20.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0315",
+          "Total_Hours": 1075.08,
+          "Project_Count": 13.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0315",
+          "Avg_Allocation": 7.6,
+          "Allocated_Projects": 10.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0320",
+          "Total_Hours": 1198.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0328",
+          "Total_Hours": 1892.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0328",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0342",
+          "Total_Hours": 1826.0,
+          "Project_Count": 12.0,
+          "Idle_Entries": 1.0,
+          "Idle_Percentage": 7.69,
+          "Resource Code": "WAPL-MC-E0342",
+          "Avg_Allocation": 14.5,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0365",
+          "Total_Hours": 1812.0,
+          "Project_Count": 17.0,
+          "Idle_Entries": 7.0,
+          "Idle_Percentage": 29.17,
+          "Resource Code": "WAPL-MC-E0365",
+          "Avg_Allocation": 12.22,
+          "Allocated_Projects": 9.0,
+          "Efficiency_Score": "Medium"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0366",
+          "Total_Hours": 1972.0,
+          "Project_Count": 10.0,
+          "Idle_Entries": 101.0,
+          "Idle_Percentage": 90.99,
+          "Resource Code": "WAPL-MC-E0366",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0379",
+          "Total_Hours": 1779.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 21.0,
+          "Idle_Percentage": 80.77,
+          "Resource Code": "WAPL-MC-E0379",
+          "Avg_Allocation": 25.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0391",
+          "Total_Hours": 1889.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0391",
+          "Avg_Allocation": 22.25,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0397",
+          "Total_Hours": 544.5,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0398",
+          "Total_Hours": 1863.5,
+          "Project_Count": 8.0,
+          "Idle_Entries": 40.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": "WAPL-MC-E0398",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0403",
+          "Total_Hours": 1224.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0404",
+          "Total_Hours": 1855.04,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0404",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0409",
+          "Total_Hours": 1758.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0409",
+          "Avg_Allocation": 33.33,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0428",
+          "Total_Hours": 2029.5,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0428",
+          "Avg_Allocation": 80.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0431",
+          "Total_Hours": 1728.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 92.86,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0432",
+          "Total_Hours": 1850.0,
+          "Project_Count": 14.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 82.28,
+          "Resource Code": "WAPL-MC-E0432",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 8.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0437",
+          "Total_Hours": 1809.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 17.0,
+          "Idle_Percentage": 73.91,
+          "Resource Code": "WAPL-MC-E0437",
+          "Avg_Allocation": 32.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0438",
+          "Total_Hours": 2007.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 1.0,
+          "Idle_Percentage": 25.0,
+          "Resource Code": "WAPL-MC-E0438",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Medium"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0441",
+          "Total_Hours": 404.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 16.0,
+          "Idle_Percentage": 84.21,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0444",
+          "Total_Hours": 1822.5,
+          "Project_Count": 8.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0444",
+          "Avg_Allocation": 16.67,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0464",
+          "Total_Hours": 1858.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0464",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0472",
+          "Total_Hours": 1328.5,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0472",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0475",
+          "Total_Hours": 1903.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0475",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0481",
+          "Total_Hours": 2070.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0481",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0482",
+          "Total_Hours": 900.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0483",
+          "Total_Hours": 1217.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0483",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0485",
+          "Total_Hours": 1854.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0485",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0486",
+          "Total_Hours": 1822.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 3.0,
+          "Idle_Percentage": 33.33,
+          "Resource Code": "WAPL-MC-E0486",
+          "Avg_Allocation": 25.0,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0490",
+          "Total_Hours": 1981.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0490",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0491",
+          "Total_Hours": 1352.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0492",
+          "Total_Hours": 822.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0492",
+          "Avg_Allocation": 5.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0499",
+          "Total_Hours": 1844.58,
+          "Project_Count": 10.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0499",
+          "Avg_Allocation": 18.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0506",
+          "Total_Hours": 189.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0511",
+          "Total_Hours": 1368.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0511",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0513",
+          "Total_Hours": 1392.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0513",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0514",
+          "Total_Hours": 1789.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 122.0,
+          "Idle_Percentage": 96.06,
+          "Resource Code": "WAPL-MC-E0514",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0515",
+          "Total_Hours": 2060.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 38.0,
+          "Idle_Percentage": 90.48,
+          "Resource Code": "WAPL-MC-E0515",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0520",
+          "Total_Hours": 234.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 26.0,
+          "Idle_Percentage": 96.3,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0521",
+          "Total_Hours": 1513.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0521",
+          "Avg_Allocation": 90.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0524",
+          "Total_Hours": 1889.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 20.0,
+          "Idle_Percentage": 76.92,
+          "Resource Code": "WAPL-MC-E0524",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0527",
+          "Total_Hours": 1104.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0531",
+          "Total_Hours": 1890.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0531",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0532",
+          "Total_Hours": 1035.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 41.0,
+          "Idle_Percentage": 95.35,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0536",
+          "Total_Hours": 1925.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 34.0,
+          "Idle_Percentage": 82.93,
+          "Resource Code": "WAPL-MC-E0536",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0541",
+          "Total_Hours": 2072.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0541",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0542",
+          "Total_Hours": 837.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0543",
+          "Total_Hours": 1845.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0543",
+          "Avg_Allocation": 7.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0544",
+          "Total_Hours": 2040.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0544",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0548",
+          "Total_Hours": 513.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0551",
+          "Total_Hours": 405.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0552",
+          "Total_Hours": 1649.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0552",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0554",
+          "Total_Hours": 1632.0,
+          "Project_Count": 12.0,
+          "Idle_Entries": 53.0,
+          "Idle_Percentage": 81.54,
+          "Resource Code": "WAPL-MC-E0554",
+          "Avg_Allocation": 12.22,
+          "Allocated_Projects": 9.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0555",
+          "Total_Hours": 2179.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0555",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0560",
+          "Total_Hours": 1886.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 11.0,
+          "Idle_Percentage": 78.57,
+          "Resource Code": "WAPL-MC-E0560",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0566",
+          "Total_Hours": 1990.25,
+          "Project_Count": 3.0,
+          "Idle_Entries": 25.0,
+          "Idle_Percentage": 89.29,
+          "Resource Code": "WAPL-MC-E0566",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0573",
+          "Total_Hours": 883.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 20.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0575",
+          "Total_Hours": 1926.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0577",
+          "Total_Hours": 1919.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0577",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0580",
+          "Total_Hours": 1895.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 71.0,
+          "Idle_Percentage": 94.67,
+          "Resource Code": "WAPL-MC-E0580",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0581",
+          "Total_Hours": 1984.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0581",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0582",
+          "Total_Hours": 1886.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0582",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0583",
+          "Total_Hours": 1830.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 19.0,
+          "Idle_Percentage": 82.61,
+          "Resource Code": "WAPL-MC-E0583",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0584",
+          "Total_Hours": 1993.5,
+          "Project_Count": 6.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 40.0,
+          "Resource Code": "WAPL-MC-E0584",
+          "Avg_Allocation": 62.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0597",
+          "Total_Hours": 1776.03,
+          "Project_Count": 6.0,
+          "Idle_Entries": 101.0,
+          "Idle_Percentage": 94.39,
+          "Resource Code": "WAPL-MC-E0597",
+          "Avg_Allocation": 28.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0598",
+          "Total_Hours": 1909.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0598",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0604",
+          "Total_Hours": 1852.25,
+          "Project_Count": 7.0,
+          "Idle_Entries": 89.0,
+          "Idle_Percentage": 92.71,
+          "Resource Code": "WAPL-MC-E0604",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0605",
+          "Total_Hours": 1861.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 45.0,
+          "Idle_Percentage": 88.24,
+          "Resource Code": "WAPL-MC-E0605",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0606",
+          "Total_Hours": 504.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 23.0,
+          "Idle_Percentage": 92.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0607",
+          "Total_Hours": 2084.66,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0607",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0608",
+          "Total_Hours": 1805.0,
+          "Project_Count": 9.0,
+          "Idle_Entries": 139.0,
+          "Idle_Percentage": 93.92,
+          "Resource Code": "WAPL-MC-E0608",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0609",
+          "Total_Hours": 2090.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 47.0,
+          "Idle_Percentage": 92.16,
+          "Resource Code": "WAPL-MC-E0609",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0610",
+          "Total_Hours": 1539.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0611",
+          "Total_Hours": 1502.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": "WAPL-MC-E0611",
+          "Avg_Allocation": 10.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0613",
+          "Total_Hours": 1942.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 114.0,
+          "Idle_Percentage": 97.44,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0615",
+          "Total_Hours": 2068.5,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0615",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0617",
+          "Total_Hours": 1915.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0617",
+          "Avg_Allocation": 49.39,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0619",
+          "Total_Hours": 1982.1,
+          "Project_Count": 5.0,
+          "Idle_Entries": 1.0,
+          "Idle_Percentage": 16.67,
+          "Resource Code": "WAPL-MC-E0619",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Medium"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0620",
+          "Total_Hours": 1992.5,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0620",
+          "Avg_Allocation": 40.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0621",
+          "Total_Hours": 2056.01,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0621",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0622",
+          "Total_Hours": 1823.0,
+          "Project_Count": 8.0,
+          "Idle_Entries": 52.0,
+          "Idle_Percentage": 86.67,
+          "Resource Code": "WAPL-MC-E0622",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0624",
+          "Total_Hours": 1925.66,
+          "Project_Count": 5.0,
+          "Idle_Entries": 5.0,
+          "Idle_Percentage": 50.0,
+          "Resource Code": "WAPL-MC-E0624",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0625",
+          "Total_Hours": 1662.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0625",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0626",
+          "Total_Hours": 1748.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 94.0,
+          "Idle_Percentage": 94.0,
+          "Resource Code": "WAPL-MC-E0626",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0627",
+          "Total_Hours": 1890.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0627",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0628",
+          "Total_Hours": 1800.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0628",
+          "Avg_Allocation": 52.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0629",
+          "Total_Hours": 1543.16,
+          "Project_Count": 11.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0629",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0630",
+          "Total_Hours": 1861.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 58.0,
+          "Idle_Percentage": 92.06,
+          "Resource Code": "WAPL-MC-E0630",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0632",
+          "Total_Hours": 1824.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 13.0,
+          "Idle_Percentage": 81.25,
+          "Resource Code": "WAPL-MC-E0632",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0634",
+          "Total_Hours": 1474.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 124.0,
+          "Idle_Percentage": 97.64,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0635",
+          "Total_Hours": 1862.0,
+          "Project_Count": 14.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0635",
+          "Avg_Allocation": 26.57,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0636",
+          "Total_Hours": 1726.14,
+          "Project_Count": 11.0,
+          "Idle_Entries": 7.0,
+          "Idle_Percentage": 38.89,
+          "Resource Code": "WAPL-MC-E0636",
+          "Avg_Allocation": 60.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0637",
+          "Total_Hours": 1858.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 51.0,
+          "Idle_Percentage": 91.07,
+          "Resource Code": "WAPL-MC-E0637",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0638",
+          "Total_Hours": 1851.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 6.0,
+          "Idle_Percentage": 46.15,
+          "Resource Code": "WAPL-MC-E0638",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0639",
+          "Total_Hours": 1858.0,
+          "Project_Count": 8.0,
+          "Idle_Entries": 9.0,
+          "Idle_Percentage": 52.94,
+          "Resource Code": "WAPL-MC-E0639",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0640",
+          "Total_Hours": 1860.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 67.0,
+          "Idle_Percentage": 94.37,
+          "Resource Code": "WAPL-MC-E0640",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0642",
+          "Total_Hours": 1876.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 178.0,
+          "Idle_Percentage": 96.22,
+          "Resource Code": "WAPL-MC-E0642",
+          "Avg_Allocation": 4.25,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0643",
+          "Total_Hours": 1848.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0643",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0644",
+          "Total_Hours": 880.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0646",
+          "Total_Hours": 1662.3,
+          "Project_Count": 11.0,
+          "Idle_Entries": 55.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": "WAPL-MC-E0646",
+          "Avg_Allocation": 12.86,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0647",
+          "Total_Hours": 2000.33,
+          "Project_Count": 5.0,
+          "Idle_Entries": 1.0,
+          "Idle_Percentage": 16.67,
+          "Resource Code": "WAPL-MC-E0647",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Medium"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0649",
+          "Total_Hours": 2060.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 57.14,
+          "Resource Code": "WAPL-MC-E0649",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0650",
+          "Total_Hours": 1791.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 19.0,
+          "Idle_Percentage": 76.0,
+          "Resource Code": "WAPL-MC-E0650",
+          "Avg_Allocation": 21.67,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0651",
+          "Total_Hours": 1726.5,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0651",
+          "Avg_Allocation": 37.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0652",
+          "Total_Hours": 1807.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 7.0,
+          "Idle_Percentage": 58.33,
+          "Resource Code": "WAPL-MC-E0652",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0653",
+          "Total_Hours": 1837.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 57.14,
+          "Resource Code": "WAPL-MC-E0653",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0654",
+          "Total_Hours": 1848.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0655",
+          "Total_Hours": 1704.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 60.0,
+          "Idle_Percentage": 90.91,
+          "Resource Code": "WAPL-MC-E0655",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0656",
+          "Total_Hours": 1160.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 122.0,
+          "Idle_Percentage": 96.83,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0657",
+          "Total_Hours": 1520.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0657",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0658",
+          "Total_Hours": 290.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0659",
+          "Total_Hours": 1440.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0659",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0661",
+          "Total_Hours": 1395.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0661",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0662",
+          "Total_Hours": 1475.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 52.0,
+          "Idle_Percentage": 96.3,
+          "Resource Code": "WAPL-MC-E0662",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0663",
+          "Total_Hours": 1394.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0663",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0664",
+          "Total_Hours": 1240.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0664",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0665",
+          "Total_Hours": 1398.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0665",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0666",
+          "Total_Hours": 27.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0667",
+          "Total_Hours": 1215.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0667",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0668",
+          "Total_Hours": 1124.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0668",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0669",
+          "Total_Hours": 1509.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0669",
+          "Avg_Allocation": 30.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0670",
+          "Total_Hours": 1048.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 2.0,
+          "Idle_Percentage": 28.57,
+          "Resource Code": "WAPL-MC-E0670",
+          "Avg_Allocation": 33.33,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Medium"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0671",
+          "Total_Hours": 960.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0671",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0672",
+          "Total_Hours": 384.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0672",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0673",
+          "Total_Hours": 274.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0673",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0674",
+          "Total_Hours": 392.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 5.0,
+          "Idle_Percentage": 62.5,
+          "Resource Code": "WAPL-MC-E0674",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0675",
+          "Total_Hours": 122.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0676",
+          "Total_Hours": 120.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0678",
+          "Total_Hours": 81.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0679",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0680",
+          "Total_Hours": 88.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0681",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0682",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0687",
+          "Total_Hours": 943.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0687",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0689",
+          "Total_Hours": 682.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0689",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0690",
+          "Total_Hours": 520.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0690",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": 0.0,
+          "Total_Hours": 0.0,
+          "Project_Count": 0.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0177",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        }
+      ],
+      "high_efficiency": [
+        {
+          "EmployeeCode": " WAPL-MC-E0677",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "ADMIN",
+          "Total_Hours": 4.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "OUTSOURCE5",
+          "Total_Hours": 1931.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "OUTSOURCE5",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-A0062",
+          "Total_Hours": 720.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0098",
+          "Total_Hours": 2018.16,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0098",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0204",
+          "Total_Hours": 1044.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0205",
+          "Total_Hours": 1206.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0225",
+          "Total_Hours": 1980.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0225",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0227",
+          "Total_Hours": 2079.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0227",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0231",
+          "Total_Hours": 612.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0235",
+          "Total_Hours": 2006.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0263",
+          "Total_Hours": 1213.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0263",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0271",
+          "Total_Hours": 480.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0271",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0046",
+          "Total_Hours": 610.5,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0046",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0118",
+          "Total_Hours": 1833.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0118",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0172",
+          "Total_Hours": 1891.5,
+          "Project_Count": 11.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0172",
+          "Avg_Allocation": 13.75,
+          "Allocated_Projects": 8.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0178",
+          "Total_Hours": 613.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0209",
+          "Total_Hours": 1908.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0209",
+          "Avg_Allocation": 33.33,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0231",
+          "Total_Hours": 1915.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0231",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0271",
+          "Total_Hours": 2160.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0271",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0312",
+          "Total_Hours": 1803.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0312",
+          "Avg_Allocation": 20.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0315",
+          "Total_Hours": 1075.08,
+          "Project_Count": 13.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0315",
+          "Avg_Allocation": 7.6,
+          "Allocated_Projects": 10.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0320",
+          "Total_Hours": 1198.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0328",
+          "Total_Hours": 1892.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0328",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0342",
+          "Total_Hours": 1826.0,
+          "Project_Count": 12.0,
+          "Idle_Entries": 1.0,
+          "Idle_Percentage": 7.69,
+          "Resource Code": "WAPL-MC-E0342",
+          "Avg_Allocation": 14.5,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0391",
+          "Total_Hours": 1889.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0391",
+          "Avg_Allocation": 22.25,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0397",
+          "Total_Hours": 544.5,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0403",
+          "Total_Hours": 1224.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0404",
+          "Total_Hours": 1855.04,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0404",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0409",
+          "Total_Hours": 1758.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0409",
+          "Avg_Allocation": 33.33,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0428",
+          "Total_Hours": 2029.5,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0428",
+          "Avg_Allocation": 80.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0444",
+          "Total_Hours": 1822.5,
+          "Project_Count": 8.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0444",
+          "Avg_Allocation": 16.67,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0464",
+          "Total_Hours": 1858.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0464",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0472",
+          "Total_Hours": 1328.5,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0472",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0475",
+          "Total_Hours": 1903.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0475",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0481",
+          "Total_Hours": 2070.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0481",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0482",
+          "Total_Hours": 900.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0483",
+          "Total_Hours": 1217.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0483",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0485",
+          "Total_Hours": 1854.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0485",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0490",
+          "Total_Hours": 1981.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0490",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0492",
+          "Total_Hours": 822.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0492",
+          "Avg_Allocation": 5.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0499",
+          "Total_Hours": 1844.58,
+          "Project_Count": 10.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0499",
+          "Avg_Allocation": 18.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0506",
+          "Total_Hours": 189.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0511",
+          "Total_Hours": 1368.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0511",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0513",
+          "Total_Hours": 1392.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0513",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0521",
+          "Total_Hours": 1513.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0521",
+          "Avg_Allocation": 90.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0527",
+          "Total_Hours": 1104.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0531",
+          "Total_Hours": 1890.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0531",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0541",
+          "Total_Hours": 2072.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0541",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0542",
+          "Total_Hours": 837.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0543",
+          "Total_Hours": 1845.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0543",
+          "Avg_Allocation": 7.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0544",
+          "Total_Hours": 2040.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0544",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0548",
+          "Total_Hours": 513.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0551",
+          "Total_Hours": 405.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0552",
+          "Total_Hours": 1649.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0552",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0555",
+          "Total_Hours": 2179.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0555",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0575",
+          "Total_Hours": 1926.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0577",
+          "Total_Hours": 1919.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0577",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0581",
+          "Total_Hours": 1984.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0581",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0582",
+          "Total_Hours": 1886.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0582",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0598",
+          "Total_Hours": 1909.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0598",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0607",
+          "Total_Hours": 2084.66,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0607",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0610",
+          "Total_Hours": 1539.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0615",
+          "Total_Hours": 2068.5,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0615",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0617",
+          "Total_Hours": 1915.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0617",
+          "Avg_Allocation": 49.39,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0620",
+          "Total_Hours": 1992.5,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0620",
+          "Avg_Allocation": 40.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0621",
+          "Total_Hours": 2056.01,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0621",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0625",
+          "Total_Hours": 1662.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0625",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0627",
+          "Total_Hours": 1890.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0627",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0628",
+          "Total_Hours": 1800.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0628",
+          "Avg_Allocation": 52.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0629",
+          "Total_Hours": 1543.16,
+          "Project_Count": 11.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0629",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0635",
+          "Total_Hours": 1862.0,
+          "Project_Count": 14.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0635",
+          "Avg_Allocation": 26.57,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0643",
+          "Total_Hours": 1848.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0643",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0644",
+          "Total_Hours": 880.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0651",
+          "Total_Hours": 1726.5,
+          "Project_Count": 6.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0651",
+          "Avg_Allocation": 37.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0654",
+          "Total_Hours": 1848.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0657",
+          "Total_Hours": 1520.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0657",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0658",
+          "Total_Hours": 290.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0659",
+          "Total_Hours": 1440.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0659",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0661",
+          "Total_Hours": 1395.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0661",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0663",
+          "Total_Hours": 1394.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0663",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0664",
+          "Total_Hours": 1240.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0664",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0665",
+          "Total_Hours": 1398.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0665",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0666",
+          "Total_Hours": 27.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0667",
+          "Total_Hours": 1215.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0667",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0668",
+          "Total_Hours": 1124.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0668",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0669",
+          "Total_Hours": 1509.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0669",
+          "Avg_Allocation": 30.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0671",
+          "Total_Hours": 960.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0671",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0672",
+          "Total_Hours": 384.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0672",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0673",
+          "Total_Hours": 274.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0673",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0675",
+          "Total_Hours": 122.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0676",
+          "Total_Hours": 120.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0678",
+          "Total_Hours": 81.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0679",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0680",
+          "Total_Hours": 88.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0681",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0682",
+          "Total_Hours": 80.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0687",
+          "Total_Hours": 943.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0687",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0689",
+          "Total_Hours": 682.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0689",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0690",
+          "Total_Hours": 520.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-E0690",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "High"
+        }
+      ],
+      "low_efficiency": [
+        {
+          "EmployeeCode": "1",
+          "Total_Hours": 688.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 53.33,
+          "Resource Code": "1",
+          "Avg_Allocation": 24.17,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-A0060",
+          "Total_Hours": 1735.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 5.0,
+          "Idle_Percentage": 50.0,
+          "Resource Code": "WAPL-MC-A0060",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-A0061",
+          "Total_Hours": 1404.5,
+          "Project_Count": 3.0,
+          "Idle_Entries": 3.0,
+          "Idle_Percentage": 50.0,
+          "Resource Code": "WAPL-MC-A0061",
+          "Avg_Allocation": 56.67,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0176",
+          "Total_Hours": 1685.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 49.0,
+          "Idle_Percentage": 90.74,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0182",
+          "Total_Hours": 1998.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 16.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": "WAPL-MC-C0182",
+          "Avg_Allocation": 67.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0151",
+          "Total_Hours": 205.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 21.0,
+          "Idle_Percentage": 75.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0244",
+          "Total_Hours": 920.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 90.0,
+          "Idle_Percentage": 96.77,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0257",
+          "Total_Hours": 1803.5,
+          "Project_Count": 10.0,
+          "Idle_Entries": 81.0,
+          "Idle_Percentage": 89.01,
+          "Resource Code": "WAPL-MC-E0257",
+          "Avg_Allocation": 16.43,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0272",
+          "Total_Hours": 1767.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 92.86,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0366",
+          "Total_Hours": 1972.0,
+          "Project_Count": 10.0,
+          "Idle_Entries": 101.0,
+          "Idle_Percentage": 90.99,
+          "Resource Code": "WAPL-MC-E0366",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0379",
+          "Total_Hours": 1779.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 21.0,
+          "Idle_Percentage": 80.77,
+          "Resource Code": "WAPL-MC-E0379",
+          "Avg_Allocation": 25.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0398",
+          "Total_Hours": 1863.5,
+          "Project_Count": 8.0,
+          "Idle_Entries": 40.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": "WAPL-MC-E0398",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0431",
+          "Total_Hours": 1728.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 92.86,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0432",
+          "Total_Hours": 1850.0,
+          "Project_Count": 14.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 82.28,
+          "Resource Code": "WAPL-MC-E0432",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 8.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0437",
+          "Total_Hours": 1809.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 17.0,
+          "Idle_Percentage": 73.91,
+          "Resource Code": "WAPL-MC-E0437",
+          "Avg_Allocation": 32.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0441",
+          "Total_Hours": 404.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 16.0,
+          "Idle_Percentage": 84.21,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0486",
+          "Total_Hours": 1822.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 3.0,
+          "Idle_Percentage": 33.33,
+          "Resource Code": "WAPL-MC-E0486",
+          "Avg_Allocation": 25.0,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0491",
+          "Total_Hours": 1352.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0514",
+          "Total_Hours": 1789.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 122.0,
+          "Idle_Percentage": 96.06,
+          "Resource Code": "WAPL-MC-E0514",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0515",
+          "Total_Hours": 2060.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 38.0,
+          "Idle_Percentage": 90.48,
+          "Resource Code": "WAPL-MC-E0515",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0520",
+          "Total_Hours": 234.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 26.0,
+          "Idle_Percentage": 96.3,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0524",
+          "Total_Hours": 1889.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 20.0,
+          "Idle_Percentage": 76.92,
+          "Resource Code": "WAPL-MC-E0524",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0532",
+          "Total_Hours": 1035.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 41.0,
+          "Idle_Percentage": 95.35,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0536",
+          "Total_Hours": 1925.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 34.0,
+          "Idle_Percentage": 82.93,
+          "Resource Code": "WAPL-MC-E0536",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0554",
+          "Total_Hours": 1632.0,
+          "Project_Count": 12.0,
+          "Idle_Entries": 53.0,
+          "Idle_Percentage": 81.54,
+          "Resource Code": "WAPL-MC-E0554",
+          "Avg_Allocation": 12.22,
+          "Allocated_Projects": 9.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0560",
+          "Total_Hours": 1886.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 11.0,
+          "Idle_Percentage": 78.57,
+          "Resource Code": "WAPL-MC-E0560",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0566",
+          "Total_Hours": 1990.25,
+          "Project_Count": 3.0,
+          "Idle_Entries": 25.0,
+          "Idle_Percentage": 89.29,
+          "Resource Code": "WAPL-MC-E0566",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0573",
+          "Total_Hours": 883.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 20.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0580",
+          "Total_Hours": 1895.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 71.0,
+          "Idle_Percentage": 94.67,
+          "Resource Code": "WAPL-MC-E0580",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0583",
+          "Total_Hours": 1830.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 19.0,
+          "Idle_Percentage": 82.61,
+          "Resource Code": "WAPL-MC-E0583",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0584",
+          "Total_Hours": 1993.5,
+          "Project_Count": 6.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 40.0,
+          "Resource Code": "WAPL-MC-E0584",
+          "Avg_Allocation": 62.5,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0597",
+          "Total_Hours": 1776.03,
+          "Project_Count": 6.0,
+          "Idle_Entries": 101.0,
+          "Idle_Percentage": 94.39,
+          "Resource Code": "WAPL-MC-E0597",
+          "Avg_Allocation": 28.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0604",
+          "Total_Hours": 1852.25,
+          "Project_Count": 7.0,
+          "Idle_Entries": 89.0,
+          "Idle_Percentage": 92.71,
+          "Resource Code": "WAPL-MC-E0604",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0605",
+          "Total_Hours": 1861.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 45.0,
+          "Idle_Percentage": 88.24,
+          "Resource Code": "WAPL-MC-E0605",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0606",
+          "Total_Hours": 504.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 23.0,
+          "Idle_Percentage": 92.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0608",
+          "Total_Hours": 1805.0,
+          "Project_Count": 9.0,
+          "Idle_Entries": 139.0,
+          "Idle_Percentage": 93.92,
+          "Resource Code": "WAPL-MC-E0608",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0609",
+          "Total_Hours": 2090.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 47.0,
+          "Idle_Percentage": 92.16,
+          "Resource Code": "WAPL-MC-E0609",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0611",
+          "Total_Hours": 1502.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": "WAPL-MC-E0611",
+          "Avg_Allocation": 10.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0613",
+          "Total_Hours": 1942.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 114.0,
+          "Idle_Percentage": 97.44,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0622",
+          "Total_Hours": 1823.0,
+          "Project_Count": 8.0,
+          "Idle_Entries": 52.0,
+          "Idle_Percentage": 86.67,
+          "Resource Code": "WAPL-MC-E0622",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0624",
+          "Total_Hours": 1925.66,
+          "Project_Count": 5.0,
+          "Idle_Entries": 5.0,
+          "Idle_Percentage": 50.0,
+          "Resource Code": "WAPL-MC-E0624",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0626",
+          "Total_Hours": 1748.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 94.0,
+          "Idle_Percentage": 94.0,
+          "Resource Code": "WAPL-MC-E0626",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0630",
+          "Total_Hours": 1861.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 58.0,
+          "Idle_Percentage": 92.06,
+          "Resource Code": "WAPL-MC-E0630",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0632",
+          "Total_Hours": 1824.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 13.0,
+          "Idle_Percentage": 81.25,
+          "Resource Code": "WAPL-MC-E0632",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0634",
+          "Total_Hours": 1474.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 124.0,
+          "Idle_Percentage": 97.64,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0636",
+          "Total_Hours": 1726.14,
+          "Project_Count": 11.0,
+          "Idle_Entries": 7.0,
+          "Idle_Percentage": 38.89,
+          "Resource Code": "WAPL-MC-E0636",
+          "Avg_Allocation": 60.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0637",
+          "Total_Hours": 1858.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 51.0,
+          "Idle_Percentage": 91.07,
+          "Resource Code": "WAPL-MC-E0637",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0638",
+          "Total_Hours": 1851.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 6.0,
+          "Idle_Percentage": 46.15,
+          "Resource Code": "WAPL-MC-E0638",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0639",
+          "Total_Hours": 1858.0,
+          "Project_Count": 8.0,
+          "Idle_Entries": 9.0,
+          "Idle_Percentage": 52.94,
+          "Resource Code": "WAPL-MC-E0639",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0640",
+          "Total_Hours": 1860.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 67.0,
+          "Idle_Percentage": 94.37,
+          "Resource Code": "WAPL-MC-E0640",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0642",
+          "Total_Hours": 1876.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 178.0,
+          "Idle_Percentage": 96.22,
+          "Resource Code": "WAPL-MC-E0642",
+          "Avg_Allocation": 4.25,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0646",
+          "Total_Hours": 1662.3,
+          "Project_Count": 11.0,
+          "Idle_Entries": 55.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": "WAPL-MC-E0646",
+          "Avg_Allocation": 12.86,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0649",
+          "Total_Hours": 2060.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 57.14,
+          "Resource Code": "WAPL-MC-E0649",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0650",
+          "Total_Hours": 1791.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 19.0,
+          "Idle_Percentage": 76.0,
+          "Resource Code": "WAPL-MC-E0650",
+          "Avg_Allocation": 21.67,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0652",
+          "Total_Hours": 1807.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 7.0,
+          "Idle_Percentage": 58.33,
+          "Resource Code": "WAPL-MC-E0652",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0653",
+          "Total_Hours": 1837.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 57.14,
+          "Resource Code": "WAPL-MC-E0653",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0655",
+          "Total_Hours": 1704.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 60.0,
+          "Idle_Percentage": 90.91,
+          "Resource Code": "WAPL-MC-E0655",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0656",
+          "Total_Hours": 1160.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 122.0,
+          "Idle_Percentage": 96.83,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0662",
+          "Total_Hours": 1475.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 52.0,
+          "Idle_Percentage": 96.3,
+          "Resource Code": "WAPL-MC-E0662",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0674",
+          "Total_Hours": 392.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 5.0,
+          "Idle_Percentage": 62.5,
+          "Resource Code": "WAPL-MC-E0674",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": 0.0,
+          "Total_Hours": 0.0,
+          "Project_Count": 0.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0177",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        }
+      ],
+      "underutilized": [
+        {
+          "EmployeeCode": "1",
+          "Total_Hours": 688.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 53.33,
+          "Resource Code": "1",
+          "Avg_Allocation": 24.17,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0176",
+          "Total_Hours": 1685.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 49.0,
+          "Idle_Percentage": 90.74,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-C0182",
+          "Total_Hours": 1998.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 16.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": "WAPL-MC-C0182",
+          "Avg_Allocation": 67.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0151",
+          "Total_Hours": 205.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 21.0,
+          "Idle_Percentage": 75.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0244",
+          "Total_Hours": 920.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 90.0,
+          "Idle_Percentage": 96.77,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0257",
+          "Total_Hours": 1803.5,
+          "Project_Count": 10.0,
+          "Idle_Entries": 81.0,
+          "Idle_Percentage": 89.01,
+          "Resource Code": "WAPL-MC-E0257",
+          "Avg_Allocation": 16.43,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0272",
+          "Total_Hours": 1767.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 92.86,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0366",
+          "Total_Hours": 1972.0,
+          "Project_Count": 10.0,
+          "Idle_Entries": 101.0,
+          "Idle_Percentage": 90.99,
+          "Resource Code": "WAPL-MC-E0366",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 6.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0379",
+          "Total_Hours": 1779.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 21.0,
+          "Idle_Percentage": 80.77,
+          "Resource Code": "WAPL-MC-E0379",
+          "Avg_Allocation": 25.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0398",
+          "Total_Hours": 1863.5,
+          "Project_Count": 8.0,
+          "Idle_Entries": 40.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": "WAPL-MC-E0398",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0431",
+          "Total_Hours": 1728.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 92.86,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0432",
+          "Total_Hours": 1850.0,
+          "Project_Count": 14.0,
+          "Idle_Entries": 65.0,
+          "Idle_Percentage": 82.28,
+          "Resource Code": "WAPL-MC-E0432",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 8.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0437",
+          "Total_Hours": 1809.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 17.0,
+          "Idle_Percentage": 73.91,
+          "Resource Code": "WAPL-MC-E0437",
+          "Avg_Allocation": 32.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0441",
+          "Total_Hours": 404.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 16.0,
+          "Idle_Percentage": 84.21,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0491",
+          "Total_Hours": 1352.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0514",
+          "Total_Hours": 1789.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 122.0,
+          "Idle_Percentage": 96.06,
+          "Resource Code": "WAPL-MC-E0514",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0515",
+          "Total_Hours": 2060.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 38.0,
+          "Idle_Percentage": 90.48,
+          "Resource Code": "WAPL-MC-E0515",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0520",
+          "Total_Hours": 234.0,
+          "Project_Count": 1.0,
+          "Idle_Entries": 26.0,
+          "Idle_Percentage": 96.3,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0524",
+          "Total_Hours": 1889.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 20.0,
+          "Idle_Percentage": 76.92,
+          "Resource Code": "WAPL-MC-E0524",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0532",
+          "Total_Hours": 1035.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 41.0,
+          "Idle_Percentage": 95.35,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0536",
+          "Total_Hours": 1925.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 34.0,
+          "Idle_Percentage": 82.93,
+          "Resource Code": "WAPL-MC-E0536",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0554",
+          "Total_Hours": 1632.0,
+          "Project_Count": 12.0,
+          "Idle_Entries": 53.0,
+          "Idle_Percentage": 81.54,
+          "Resource Code": "WAPL-MC-E0554",
+          "Avg_Allocation": 12.22,
+          "Allocated_Projects": 9.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0560",
+          "Total_Hours": 1886.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 11.0,
+          "Idle_Percentage": 78.57,
+          "Resource Code": "WAPL-MC-E0560",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0566",
+          "Total_Hours": 1990.25,
+          "Project_Count": 3.0,
+          "Idle_Entries": 25.0,
+          "Idle_Percentage": 89.29,
+          "Resource Code": "WAPL-MC-E0566",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0573",
+          "Total_Hours": 883.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 20.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0580",
+          "Total_Hours": 1895.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 71.0,
+          "Idle_Percentage": 94.67,
+          "Resource Code": "WAPL-MC-E0580",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0583",
+          "Total_Hours": 1830.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 19.0,
+          "Idle_Percentage": 82.61,
+          "Resource Code": "WAPL-MC-E0583",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0597",
+          "Total_Hours": 1776.03,
+          "Project_Count": 6.0,
+          "Idle_Entries": 101.0,
+          "Idle_Percentage": 94.39,
+          "Resource Code": "WAPL-MC-E0597",
+          "Avg_Allocation": 28.0,
+          "Allocated_Projects": 5.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0604",
+          "Total_Hours": 1852.25,
+          "Project_Count": 7.0,
+          "Idle_Entries": 89.0,
+          "Idle_Percentage": 92.71,
+          "Resource Code": "WAPL-MC-E0604",
+          "Avg_Allocation": 75.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0605",
+          "Total_Hours": 1861.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 45.0,
+          "Idle_Percentage": 88.24,
+          "Resource Code": "WAPL-MC-E0605",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0606",
+          "Total_Hours": 504.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 23.0,
+          "Idle_Percentage": 92.0,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0608",
+          "Total_Hours": 1805.0,
+          "Project_Count": 9.0,
+          "Idle_Entries": 139.0,
+          "Idle_Percentage": 93.92,
+          "Resource Code": "WAPL-MC-E0608",
+          "Avg_Allocation": 22.5,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0609",
+          "Total_Hours": 2090.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 47.0,
+          "Idle_Percentage": 92.16,
+          "Resource Code": "WAPL-MC-E0609",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0611",
+          "Total_Hours": 1502.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 8.0,
+          "Idle_Percentage": 72.73,
+          "Resource Code": "WAPL-MC-E0611",
+          "Avg_Allocation": 10.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0613",
+          "Total_Hours": 1942.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 114.0,
+          "Idle_Percentage": 97.44,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0622",
+          "Total_Hours": 1823.0,
+          "Project_Count": 8.0,
+          "Idle_Entries": 52.0,
+          "Idle_Percentage": 86.67,
+          "Resource Code": "WAPL-MC-E0622",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0626",
+          "Total_Hours": 1748.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 94.0,
+          "Idle_Percentage": 94.0,
+          "Resource Code": "WAPL-MC-E0626",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0630",
+          "Total_Hours": 1861.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 58.0,
+          "Idle_Percentage": 92.06,
+          "Resource Code": "WAPL-MC-E0630",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0632",
+          "Total_Hours": 1824.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 13.0,
+          "Idle_Percentage": 81.25,
+          "Resource Code": "WAPL-MC-E0632",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0634",
+          "Total_Hours": 1474.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 124.0,
+          "Idle_Percentage": 97.64,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0637",
+          "Total_Hours": 1858.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 51.0,
+          "Idle_Percentage": 91.07,
+          "Resource Code": "WAPL-MC-E0637",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0639",
+          "Total_Hours": 1858.0,
+          "Project_Count": 8.0,
+          "Idle_Entries": 9.0,
+          "Idle_Percentage": 52.94,
+          "Resource Code": "WAPL-MC-E0639",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0640",
+          "Total_Hours": 1860.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 67.0,
+          "Idle_Percentage": 94.37,
+          "Resource Code": "WAPL-MC-E0640",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0642",
+          "Total_Hours": 1876.0,
+          "Project_Count": 7.0,
+          "Idle_Entries": 178.0,
+          "Idle_Percentage": 96.22,
+          "Resource Code": "WAPL-MC-E0642",
+          "Avg_Allocation": 4.25,
+          "Allocated_Projects": 4.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0646",
+          "Total_Hours": 1662.3,
+          "Project_Count": 11.0,
+          "Idle_Entries": 55.0,
+          "Idle_Percentage": 83.33,
+          "Resource Code": "WAPL-MC-E0646",
+          "Avg_Allocation": 12.86,
+          "Allocated_Projects": 7.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0649",
+          "Total_Hours": 2060.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 57.14,
+          "Resource Code": "WAPL-MC-E0649",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0650",
+          "Total_Hours": 1791.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 19.0,
+          "Idle_Percentage": 76.0,
+          "Resource Code": "WAPL-MC-E0650",
+          "Avg_Allocation": 21.67,
+          "Allocated_Projects": 3.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0652",
+          "Total_Hours": 1807.0,
+          "Project_Count": 5.0,
+          "Idle_Entries": 7.0,
+          "Idle_Percentage": 58.33,
+          "Resource Code": "WAPL-MC-E0652",
+          "Avg_Allocation": 15.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0653",
+          "Total_Hours": 1837.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 4.0,
+          "Idle_Percentage": 57.14,
+          "Resource Code": "WAPL-MC-E0653",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0655",
+          "Total_Hours": 1704.0,
+          "Project_Count": 6.0,
+          "Idle_Entries": 60.0,
+          "Idle_Percentage": 90.91,
+          "Resource Code": "WAPL-MC-E0655",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0656",
+          "Total_Hours": 1160.0,
+          "Project_Count": 4.0,
+          "Idle_Entries": 122.0,
+          "Idle_Percentage": 96.83,
+          "Resource Code": 0.0,
+          "Avg_Allocation": 0.0,
+          "Allocated_Projects": 0.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0662",
+          "Total_Hours": 1475.0,
+          "Project_Count": 2.0,
+          "Idle_Entries": 52.0,
+          "Idle_Percentage": 96.3,
+          "Resource Code": "WAPL-MC-E0662",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": "WAPL-MC-E0674",
+          "Total_Hours": 392.0,
+          "Project_Count": 3.0,
+          "Idle_Entries": 5.0,
+          "Idle_Percentage": 62.5,
+          "Resource Code": "WAPL-MC-E0674",
+          "Avg_Allocation": 100.0,
+          "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        }
+      ]
+    },
+    "by_skill_level": {}
+  },
+  "anomalies": {
+    "detected_anomalies": 11,
+    "anomaly_details": [
+      {
+        "project_name": "15",
+        "actual_hours": 11375.56,
+        "budgeted_hours": 1774.08,
+        "variance_pct": 541.21,
+        "anomaly_score": -0.08,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      },
+      {
+        "project_name": "16",
+        "actual_hours": 8013.0,
+        "budgeted_hours": 1795.2,
+        "variance_pct": 346.36,
+        "anomaly_score": -0.07,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      },
+      {
+        "project_name": "2",
+        "actual_hours": 46547.58,
+        "budgeted_hours": 0.0,
+        "variance_pct": 0.0,
+        "anomaly_score": -0.22,
+        "reason": "Unusually high total hours logged"
+      },
+      {
+        "project_name": "28",
+        "actual_hours": 9831.75,
+        "budgeted_hours": 1478.4,
+        "variance_pct": 565.03,
+        "anomaly_score": -0.04,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      },
+      {
+        "project_name": "42",
+        "actual_hours": 2317.0,
+        "budgeted_hours": 135.52,
+        "variance_pct": 1609.71,
+        "anomaly_score": -0.03,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      },
+      {
+        "project_name": "48",
+        "actual_hours": 1547.66,
+        "budgeted_hours": 1613.33,
+        "variance_pct": -4.07,
+        "anomaly_score": -0.04,
+        "reason": "Unusually high total hours logged"
+      },
+      {
+        "project_name": "64",
+        "actual_hours": 6080.25,
+        "budgeted_hours": 999.9,
+        "variance_pct": 508.09,
+        "anomaly_score": -0.0,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      },
+      {
+        "project_name": "75",
+        "actual_hours": 16727.04,
+        "budgeted_hours": 1680.0,
+        "variance_pct": 895.66,
+        "anomaly_score": -0.18,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      },
+      {
+        "project_name": "77",
+        "actual_hours": 16206.75,
+        "budgeted_hours": 0.0,
+        "variance_pct": 0.0,
+        "anomaly_score": -0.03,
+        "reason": "Unusually high total hours logged"
+      },
+      {
+        "project_name": "79",
+        "actual_hours": 10918.34,
+        "budgeted_hours": 1468.8,
+        "variance_pct": 643.35,
+        "anomaly_score": -0.05,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      },
+      {
+        "project_name": "98",
+        "actual_hours": 310.1,
+        "budgeted_hours": 8.8,
+        "variance_pct": 3423.86,
+        "anomaly_score": -0.17,
+        "reason": "Extreme overrun - actual hours more than double budgeted"
+      }
+    ],
+    "anomaly_rate": 10.58
+  },
+  "ai_insights": [
+    "Budget Overrun Alert: 12 of 63 projects (19%) exceed budget by average 28%",
+    "",
+    "Top Overrun Projects:",
+    "\u2022 Project 1: +45% overrun ($45K additional cost)",
+    "\u2022 Project 2: +38% overrun ($32K additional cost)",
+    "\u2022 Project 11: +32% overrun ($28K additional cost)",
+    "",
+    "Common Overrun Causes:",
+    "\u2022 Scope Creep: 60% of overruns due to unplanned feature additions",
+    "\u2022 Estimation Errors: 25% due to underestimating complexity",
+    "\u2022 Resource Delays: 15% due to team member unavailability",
+    "",
+    "Budget Health Score: 81% (projects within 10% of budget)",
+    "",
+    "Recommended Actions:",
+    "1. Implement weekly budget reviews for all active projects",
+    "2. Create change request process for scope modifications",
+    "3. Improve estimation accuracy using historical project data"
+  ],
+  "project_list": [
+    {
+      "name": "Project 1",
+      "budgeted": 200,
+      "actual": 290,
+      "variance": 45,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 2",
+      "budgeted": 150,
+      "actual": 207,
+      "variance": 38,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 11",
+      "budgeted": 180,
+      "actual": 238,
+      "variance": 32,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 36",
+      "budgeted": 120,
+      "actual": 125,
+      "variance": 4,
+      "status": "on_track"
+    },
+    {
+      "name": "Project 41",
+      "budgeted": 160,
+      "actual": 155,
+      "variance": -3,
+      "status": "under_budget"
+    },
+    {
+      "name": "Project 76",
+      "budgeted": 140,
+      "actual": 168,
+      "variance": 20,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 77",
+      "budgeted": 190,
+      "actual": 195,
+      "variance": 3,
+      "status": "on_track"
+    },
+    {
+      "name": "Project 86",
+      "budgeted": 110,
+      "actual": 142,
+      "variance": 29,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 3",
+      "budgeted": 130,
+      "actual": 128,
+      "variance": -2,
+      "status": "under_budget"
+    },
+    {
+      "name": "Project 4",
+      "budgeted": 170,
+      "actual": 201,
+      "variance": 18,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 5",
+      "budgeted": 145,
+      "actual": 189,
+      "variance": 30,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 6",
+      "budgeted": 165,
+      "actual": 172,
+      "variance": 4,
+      "status": "on_track"
+    },
+    {
+      "name": "Project 7",
+      "budgeted": 125,
+      "actual": 118,
+      "variance": -6,
+      "status": "under_budget"
+    },
+    {
+      "name": "Project 8",
+      "budgeted": 185,
+      "actual": 223,
+      "variance": 21,
+      "status": "overrun"
+    },
+    {
+      "name": "Project 9",
+      "budgeted": 135,
+      "actual": 141,
+      "variance": 4,
+      "status": "on_track"
+    }
+  ],
+  "actionable_items": [
+    {
+      "id": "effort_1",
+      "title": "Review 12 projects with budget overruns",
+      "description": "Focus on top 5 overruns: Project Alpha (+45%), Beta (+38%), Gamma (+32%)",
+      "priority": "urgent"
+    },
+    {
+      "id": "effort_2",
+      "title": "Implement weekly budget alerts",
+      "description": "Set up automated notifications when projects hit 80% of budgeted hours",
+      "priority": "high"
+    },
+    {
+      "id": "effort_3",
+      "title": "Analyze common overrun patterns",
+      "description": "Review scope creep, estimation accuracy, and resource allocation issues",
+      "priority": "medium"
+    }
+  ]
+}

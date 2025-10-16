@@ -1,0 +1,349 @@
+{
+  "automation_summary": {
+    "total_tasks_analyzed": 932,
+    "automatable_tasks": 908,
+    "high_priority_tasks": 225,
+    "automation_percentage": 97.42,
+    "avg_automation_score": 68.04,
+    "total_monthly_hours": 0.0,
+    "potential_monthly_savings": 0.0,
+    "top_automation_type": "General"
+  },
+  "task_clusters": [
+    {
+      "name": "Timesheet Processing",
+      "frequency": "Daily",
+      "time_spent": 15,
+      "automation_potential": "High",
+      "roi": 300
+    },
+    {
+      "name": "Automated Testing",
+      "frequency": "Per Build",
+      "time_spent": 8,
+      "automation_potential": "High",
+      "roi": 250
+    },
+    {
+      "name": "Client Reporting",
+      "frequency": "Weekly",
+      "time_spent": 6,
+      "automation_potential": "High",
+      "roi": 200
+    },
+    {
+      "name": "Deployment Pipeline",
+      "frequency": "Per Release",
+      "time_spent": 4,
+      "automation_potential": "Medium",
+      "roi": 180
+    },
+    {
+      "name": "System Monitoring",
+      "frequency": "Continuous",
+      "time_spent": 3,
+      "automation_potential": "Medium",
+      "roi": 150
+    },
+    {
+      "name": "Code Review",
+      "frequency": "Per PR",
+      "time_spent": 2,
+      "automation_potential": "Low",
+      "roi": 100
+    },
+    {
+      "name": "Documentation Updates",
+      "frequency": "Per Feature",
+      "time_spent": 2,
+      "automation_potential": "Low",
+      "roi": 80
+    },
+    {
+      "name": "Database Backups",
+      "frequency": "Daily",
+      "time_spent": 1,
+      "automation_potential": "High",
+      "roi": 400
+    }
+  ],
+  "top_candidates": [
+    {
+      "TaskName": "Compliance and Treasury",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 18.43,
+      "Avg_Hours_Per_Entry": 9.0,
+      "Monthly_Hours": 580.5,
+      "Automation_Score": 96.0,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 464.4,
+      "Unique_Employees": 1,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "Daily Activities",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 16.5,
+      "Avg_Hours_Per_Entry": 8.85,
+      "Monthly_Hours": 438.0,
+      "Automation_Score": 94.93,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 350.4,
+      "Unique_Employees": 1,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "MIS Management",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 32.57,
+      "Avg_Hours_Per_Entry": 8.51,
+      "Monthly_Hours": 970.5,
+      "Automation_Score": 94.89,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 776.4,
+      "Unique_Employees": 2,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "Data prep and Dashboarding Building",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 17.5,
+      "Avg_Hours_Per_Entry": 8.58,
+      "Monthly_Hours": 450.5,
+      "Automation_Score": 94.57,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 360.4,
+      "Unique_Employees": 1,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "FP and A Support",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 15.2,
+      "Avg_Hours_Per_Entry": 8.03,
+      "Monthly_Hours": 305.0,
+      "Automation_Score": 94.33,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 244.0,
+      "Unique_Employees": 1,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "Financial DD",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 22.33,
+      "Avg_Hours_Per_Entry": 9.27,
+      "Monthly_Hours": 621.0,
+      "Automation_Score": 93.06,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 496.8,
+      "Unique_Employees": 2,
+      "Unique_Projects": 2
+    },
+    {
+      "TaskName": "Dashboard- Budget Upload",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 20.0,
+      "Avg_Hours_Per_Entry": 5.0,
+      "Monthly_Hours": 50.0,
+      "Automation_Score": 92.59,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 40.0,
+      "Unique_Employees": 1,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "Interpret data patterns and trends to understand the underlying business implications.",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 15.0,
+      "Avg_Hours_Per_Entry": 3.82,
+      "Monthly_Hours": 86.0,
+      "Automation_Score": 92.32,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 68.8,
+      "Unique_Employees": 2,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "Managing CFO Mandate",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 15.67,
+      "Avg_Hours_Per_Entry": 5.51,
+      "Monthly_Hours": 259.0,
+      "Automation_Score": 92.28,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 207.2,
+      "Unique_Employees": 1,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "Creation of deck for client meetings",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 86.58,
+      "Avg_Hours_Per_Entry": 6.61,
+      "Monthly_Hours": 3435.0,
+      "Automation_Score": 91.68,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 2748.0,
+      "Unique_Employees": 8,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "Provide insights and recommendations to improve business performance and achieve strategic objectives.",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 24.09,
+      "Avg_Hours_Per_Entry": 7.24,
+      "Monthly_Hours": 958.75,
+      "Automation_Score": 91.55,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 767.0,
+      "Unique_Employees": 6,
+      "Unique_Projects": 4
+    },
+    {
+      "TaskName": "Design and generate standard financial reports including income statements balance sheets and cash flow statements.",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 21.33,
+      "Avg_Hours_Per_Entry": 7.59,
+      "Monthly_Hours": 971.62,
+      "Automation_Score": 91.47,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 777.3,
+      "Unique_Employees": 3,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "MIS Preparations",
+      "TaskType": "Advance",
+      "Avg_Monthly_Frequency": 24.83,
+      "Avg_Hours_Per_Entry": 7.1,
+      "Monthly_Hours": 1057.75,
+      "Automation_Score": 91.17,
+      "Automation_Priority": "High",
+      "Automation_Type": "RPA",
+      "Estimated_Monthly_Savings": 846.2,
+      "Unique_Employees": 4,
+      "Unique_Projects": 3
+    },
+    {
+      "TaskName": "Idle Time",
+      "TaskType": "Idle Time",
+      "Avg_Monthly_Frequency": 248.09,
+      "Avg_Hours_Per_Entry": 5.11,
+      "Monthly_Hours": 6976.61,
+      "Automation_Score": 90.77,
+      "Automation_Priority": "High",
+      "Automation_Type": "General",
+      "Estimated_Monthly_Savings": 2092.98,
+      "Unique_Employees": 66,
+      "Unique_Projects": 1
+    },
+    {
+      "TaskName": "DD related",
+      "TaskType": "Intermediate",
+      "Avg_Monthly_Frequency": 15.71,
+      "Avg_Hours_Per_Entry": 9.0,
+      "Monthly_Hours": 495.0,
+      "Automation_Score": 90.0,
+      "Automation_Priority": "High",
+      "Automation_Type": "General",
+      "Estimated_Monthly_Savings": 148.5,
+      "Unique_Employees": 1,
+      "Unique_Projects": 1
+    }
+  ],
+  "automation_breakdown": [
+    {
+      "Automation_Type": "API",
+      "Task_Count": 48,
+      "Total_Hours": 5243.75,
+      "Avg_Score": 68.24
+    },
+    {
+      "Automation_Type": "General",
+      "Task_Count": 553,
+      "Total_Hours": 87833.24,
+      "Avg_Score": 67.84
+    },
+    {
+      "Automation_Type": "Process",
+      "Task_Count": 70,
+      "Total_Hours": 2614.59,
+      "Avg_Score": 63.82
+    },
+    {
+      "Automation_Type": "RPA",
+      "Task_Count": 244,
+      "Total_Hours": 22876.66,
+      "Avg_Score": 69.44
+    },
+    {
+      "Automation_Type": "Script",
+      "Task_Count": 17,
+      "Total_Hours": 873.88,
+      "Avg_Score": 71.36
+    }
+  ],
+  "roi_analysis": {
+    "total_monthly_hours": 0,
+    "total_potential_savings": 0,
+    "automation_percentage": 0
+  },
+  "ai_insights": [
+    "High-Impact Automation Opportunities: 3 quick wins identified",
+    "",
+    "Top Automation Candidates:",
+    "\u2022 Timesheet Processing: 15 hours/week saved, 300% ROI",
+    "\u2022 Automated Testing: 8 hours/week saved, 250% ROI",
+    "\u2022 Client Reporting: 6 hours/week saved, 200% ROI",
+    "",
+    "Current Automation Level: 25% (significant opportunity)",
+    "",
+    "Efficiency Gains Potential:",
+    "\u2022 Immediate (This Month): 29 hours/week saved",
+    "\u2022 Q4 Target: 45 hours/week saved through full automation",
+    "\u2022 Annual Savings: $180K in labor costs",
+    "",
+    "Implementation Strategy:",
+    "1. Week 1: Deploy timesheet automation (highest ROI)",
+    "2. Week 3: Set up automated testing pipeline",
+    "3. Week 5: Launch automated reporting system",
+    "",
+    "Tools Recommended:",
+    "\u2022 **Timesheet**: Zapier + Google Sheets integration",
+    "\u2022 **Testing**: GitHub Actions + Jest automation",
+    "\u2022 **Reporting**: Power BI + automated data refresh"
+  ],
+  "actionable_items": [
+    {
+      "id": "automation_1",
+      "title": "Automate timesheet processing",
+      "description": "Implement automated timesheet collection and validation - saves 15 hours/week",
+      "priority": "urgent"
+    },
+    {
+      "id": "automation_2",
+      "title": "Set up automated testing pipeline",
+      "description": "Deploy CI/CD testing automation for faster delivery cycles",
+      "priority": "high"
+    },
+    {
+      "id": "automation_3",
+      "title": "Create automated reporting system",
+      "description": "Generate client reports automatically from project data",
+      "priority": "medium"
+    }
+  ]
+}

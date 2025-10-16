@@ -1,0 +1,565 @@
+{
+  "hiring_summary": {
+    "total_employees_needed": 12,
+    "total_hiring_cost": 696000.0,
+    "current_capacity_utilization": 99.27,
+    "hiring_priority": "High",
+    "recommended_timeline": "Next 3 months",
+    "roi_percentage": 50.0,
+    "confidence_level": "High",
+    "data_quality": "High"
+  },
+  "workload_analysis": {
+    "monthly_workload": [
+      {
+        "Month": "2024-10",
+        "Total_Hours": 4172.0,
+        "Unique_Employees": 114,
+        "Unique_Projects": 54,
+        "Avg_Hours_Per_Employee": 36.59649122807018,
+        "Avg_Hours_Per_Project": 77.25925925925925
+      },
+      {
+        "Month": "2024-11",
+        "Total_Hours": 21718.91,
+        "Unique_Employees": 126,
+        "Unique_Projects": 62,
+        "Avg_Hours_Per_Employee": 172.3723015873016,
+        "Avg_Hours_Per_Project": 350.305
+      },
+      {
+        "Month": "2024-12",
+        "Total_Hours": 24001.59,
+        "Unique_Employees": 133,
+        "Unique_Projects": 64,
+        "Avg_Hours_Per_Employee": 180.46308270676693,
+        "Avg_Hours_Per_Project": 375.02484375
+      },
+      {
+        "Month": "2025-01",
+        "Total_Hours": 25553.75,
+        "Unique_Employees": 134,
+        "Unique_Projects": 63,
+        "Avg_Hours_Per_Employee": 190.69962686567163,
+        "Avg_Hours_Per_Project": 405.61507936507934
+      },
+      {
+        "Month": "2025-02",
+        "Total_Hours": 22064.82,
+        "Unique_Employees": 133,
+        "Unique_Projects": 58,
+        "Avg_Hours_Per_Employee": 165.9009022556391,
+        "Avg_Hours_Per_Project": 380.42793103448275
+      },
+      {
+        "Month": "2025-03",
+        "Total_Hours": 22843.25,
+        "Unique_Employees": 133,
+        "Unique_Projects": 58,
+        "Avg_Hours_Per_Employee": 171.75375939849624,
+        "Avg_Hours_Per_Project": 393.8491379310345
+      },
+      {
+        "Month": "2025-04",
+        "Total_Hours": 23836.84,
+        "Unique_Employees": 129,
+        "Unique_Projects": 58,
+        "Avg_Hours_Per_Employee": 184.78170542635658,
+        "Avg_Hours_Per_Project": 410.98
+      },
+      {
+        "Month": "2025-05",
+        "Total_Hours": 22954.99,
+        "Unique_Employees": 126,
+        "Unique_Projects": 62,
+        "Avg_Hours_Per_Employee": 182.18246031746034,
+        "Avg_Hours_Per_Project": 370.2417741935484
+      },
+      {
+        "Month": "2025-06",
+        "Total_Hours": 21188.5,
+        "Unique_Employees": 124,
+        "Unique_Projects": 57,
+        "Avg_Hours_Per_Employee": 170.875,
+        "Avg_Hours_Per_Project": 371.7280701754386
+      },
+      {
+        "Month": "2025-07",
+        "Total_Hours": 23096.0,
+        "Unique_Employees": 125,
+        "Unique_Projects": 55,
+        "Avg_Hours_Per_Employee": 184.768,
+        "Avg_Hours_Per_Project": 419.92727272727274
+      },
+      {
+        "Month": "2025-08",
+        "Total_Hours": 20387.1,
+        "Unique_Employees": 126,
+        "Unique_Projects": 50,
+        "Avg_Hours_Per_Employee": 161.80238095238093,
+        "Avg_Hours_Per_Project": 407.74199999999996
+      },
+      {
+        "Month": "2025-09",
+        "Total_Hours": 7066.5,
+        "Unique_Employees": 101,
+        "Unique_Projects": 44,
+        "Avg_Hours_Per_Employee": 69.96534653465346,
+        "Avg_Hours_Per_Project": 160.60227272727272
+      }
+    ],
+    "avg_monthly_hours": 19907.02,
+    "avg_employees": 125.33,
+    "avg_hours_per_employee": 158.83,
+    "capacity_utilization": 99.27,
+    "hours_trend": -65.34,
+    "employee_trend": -19.84,
+    "total_months_analyzed": 12
+  },
+  "skill_analysis": {
+    "task_skill_breakdown": [
+      {
+        "Skill_Type": "Operational",
+        "Total_Hours": 71369.15,
+        "Unique_Employees": 107,
+        "Unique_Projects": 59,
+        "Avg_Hours_Per_Employee": 667.0
+      },
+      {
+        "Skill_Type": "Intermediate",
+        "Total_Hours": 48719.95,
+        "Unique_Employees": 80,
+        "Unique_Projects": 46,
+        "Avg_Hours_Per_Employee": 609.0
+      },
+      {
+        "Skill_Type": "Advance",
+        "Total_Hours": 42370.82,
+        "Unique_Employees": 74,
+        "Unique_Projects": 47,
+        "Avg_Hours_Per_Employee": 572.58
+      },
+      {
+        "Skill_Type": "Global Tasks",
+        "Total_Hours": 16206.75,
+        "Unique_Employees": 117,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 138.52
+      },
+      {
+        "Skill_Type": "Idle Time",
+        "Total_Hours": 13953.23,
+        "Unique_Employees": 66,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 211.41
+      },
+      {
+        "Skill_Type": "Pre Sales Work & Sales Meetings",
+        "Total_Hours": 11303.25,
+        "Unique_Employees": 41,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 275.69
+      },
+      {
+        "Skill_Type": "Leave",
+        "Total_Hours": 8264.0,
+        "Unique_Employees": 86,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 96.09
+      },
+      {
+        "Skill_Type": "Practus Internal Projects",
+        "Total_Hours": 7643.6,
+        "Unique_Employees": 44,
+        "Unique_Projects": 2,
+        "Avg_Hours_Per_Employee": 173.72
+      },
+      {
+        "Skill_Type": "Induction self learnings and other trainings",
+        "Total_Hours": 4047.25,
+        "Unique_Employees": 37,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 109.39
+      },
+      {
+        "Skill_Type": "US - Idle - Non Delivery Cost - Idle time",
+        "Total_Hours": 3228.0,
+        "Unique_Employees": 19,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 169.89
+      },
+      {
+        "Skill_Type": "US - Idle - Non Delivery Cost - Leaves - Paid",
+        "Total_Hours": 3021.66,
+        "Unique_Employees": 29,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 104.2
+      },
+      {
+        "Skill_Type": "US - Idle - Non Delivery Cost - National Holidays",
+        "Total_Hours": 1653.5,
+        "Unique_Employees": 30,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 55.12
+      },
+      {
+        "Skill_Type": "US-Others",
+        "Total_Hours": 1291.0,
+        "Unique_Employees": 14,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 92.21
+      },
+      {
+        "Skill_Type": "US - Idle - Non Delivery Cost - Maternity Leave",
+        "Total_Hours": 1026.0,
+        "Unique_Employees": 2,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 513.0
+      },
+      {
+        "Skill_Type": "Presales Global Project",
+        "Total_Hours": 743.0,
+        "Unique_Employees": 24,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 30.96
+      },
+      {
+        "Skill_Type": "Practus Events Offsite Sports HR Events",
+        "Total_Hours": 529.25,
+        "Unique_Employees": 29,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 18.25
+      },
+      {
+        "Skill_Type": "Learning & Development-Trainee - Online Learning",
+        "Total_Hours": 441.0,
+        "Unique_Employees": 7,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 63.0
+      },
+      {
+        "Skill_Type": "Gurukool Trainings",
+        "Total_Hours": 394.0,
+        "Unique_Employees": 32,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 12.31
+      },
+      {
+        "Skill_Type": "Internal Training Call-Trainee - Online Learning",
+        "Total_Hours": 357.0,
+        "Unique_Employees": 6,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 59.5
+      },
+      {
+        "Skill_Type": "US - Pre Sales",
+        "Total_Hours": 315.0,
+        "Unique_Employees": 5,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 63.0
+      },
+      {
+        "Skill_Type": "MFP Sessions",
+        "Total_Hours": 251.0,
+        "Unique_Employees": 34,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 7.38
+      },
+      {
+        "Skill_Type": "Review",
+        "Total_Hours": 232.04,
+        "Unique_Employees": 15,
+        "Unique_Projects": 14,
+        "Avg_Hours_Per_Employee": 15.47
+      },
+      {
+        "Skill_Type": "Internal Training Call-Trainer - Online Learning",
+        "Total_Hours": 212.5,
+        "Unique_Employees": 4,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 53.12
+      },
+      {
+        "Skill_Type": "US Meet",
+        "Total_Hours": 189.5,
+        "Unique_Employees": 13,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 14.58
+      },
+      {
+        "Skill_Type": "US - Learning & Development - Non Delivery Cost - Other learning",
+        "Total_Hours": 181.0,
+        "Unique_Employees": 9,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 20.11
+      },
+      {
+        "Skill_Type": "Team Engagement Discussion Call - Recurring",
+        "Total_Hours": 144.2,
+        "Unique_Employees": 14,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 10.3
+      },
+      {
+        "Skill_Type": "Internal Training Call-Trainer - Other learning",
+        "Total_Hours": 143.0,
+        "Unique_Employees": 7,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 20.43
+      },
+      {
+        "Skill_Type": "Interviews",
+        "Total_Hours": 134.5,
+        "Unique_Employees": 12,
+        "Unique_Projects": 3,
+        "Avg_Hours_Per_Employee": 11.21
+      },
+      {
+        "Skill_Type": "BSC Reviews",
+        "Total_Hours": 112.5,
+        "Unique_Employees": 8,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 14.06
+      },
+      {
+        "Skill_Type": "Learning & Development-Trainee - Other learning",
+        "Total_Hours": 90.5,
+        "Unique_Employees": 8,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 11.31
+      },
+      {
+        "Skill_Type": "Internal Training Call-Trainee - Other learning",
+        "Total_Hours": 60.5,
+        "Unique_Employees": 5,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 12.1
+      },
+      {
+        "Skill_Type": "US - Internal Automation - Non Delivery Cost",
+        "Total_Hours": 54.0,
+        "Unique_Employees": 2,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 27.0
+      },
+      {
+        "Skill_Type": "Quarterly MFP Calls - Recurring",
+        "Total_Hours": 52.75,
+        "Unique_Employees": 12,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 4.4
+      },
+      {
+        "Skill_Type": "HR Calls - Adhoc",
+        "Total_Hours": 34.5,
+        "Unique_Employees": 9,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 3.83
+      },
+      {
+        "Skill_Type": "US - Team Mgmt - Recruiting - Non Delivery Cost - Adhoc",
+        "Total_Hours": 26.35,
+        "Unique_Employees": 2,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 13.18
+      },
+      {
+        "Skill_Type": "US - Idle - Non Delivery Cost - Leaves - Unpaid",
+        "Total_Hours": 22.5,
+        "Unique_Employees": 1,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 22.5
+      },
+      {
+        "Skill_Type": "BSC Related Calls - Adhoc",
+        "Total_Hours": 18.5,
+        "Unique_Employees": 5,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 3.7
+      },
+      {
+        "Skill_Type": "Daily Team Huddle Call - Recurring",
+        "Total_Hours": 17.0,
+        "Unique_Employees": 5,
+        "Unique_Projects": 2,
+        "Avg_Hours_Per_Employee": 3.4
+      },
+      {
+        "Skill_Type": "Internal Training Call-Trainee - Gurukul",
+        "Total_Hours": 13.0,
+        "Unique_Employees": 2,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 6.5
+      },
+      {
+        "Skill_Type": "US - Learning & Development - Non Delivery Cost - Gurukul",
+        "Total_Hours": 10.5,
+        "Unique_Employees": 2,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 5.25
+      },
+      {
+        "Skill_Type": "US - Function Review Calls - Non Delivery Cost - Recurring",
+        "Total_Hours": 6.5,
+        "Unique_Employees": 2,
+        "Unique_Projects": 1,
+        "Avg_Hours_Per_Employee": 3.25
+      }
+    ],
+    "role_allocation": [],
+    "high_demand_skills": [
+      "Operational",
+      "Intermediate",
+      "Advance",
+      "Global Tasks",
+      "Idle Time"
+    ],
+    "skill_gaps": [
+      {
+        "skill": "Operational",
+        "demand_level": "High",
+        "avg_hours_per_employee": 667.0,
+        "total_hours": 71369.15
+      },
+      {
+        "skill": "Intermediate",
+        "demand_level": "High",
+        "avg_hours_per_employee": 609.0,
+        "total_hours": 48719.95
+      },
+      {
+        "skill": "Advance",
+        "demand_level": "High",
+        "avg_hours_per_employee": 572.58,
+        "total_hours": 42370.82
+      },
+      {
+        "skill": "Global Tasks",
+        "demand_level": "High",
+        "avg_hours_per_employee": 138.52,
+        "total_hours": 16206.75
+      },
+      {
+        "skill": "Idle Time",
+        "demand_level": "High",
+        "avg_hours_per_employee": 211.41,
+        "total_hours": 13953.23
+      }
+    ],
+    "total_skill_types": 41
+  },
+  "hiring_forecast": {
+    "scenario_1": {
+      "name": "Maintain Current Utilization",
+      "additional_employees_needed": 12,
+      "timeline": "Next 3 months",
+      "priority": "High",
+      "reasoning": "Current utilization at 99.3% is high"
+    },
+    "scenario_2": {
+      "name": "Growth-Based Hiring",
+      "additional_employees_needed": 0,
+      "timeline": "No immediate need",
+      "priority": "Low",
+      "reasoning": "Stable workload with -65.3% growth"
+    },
+    "scenario_3": {
+      "name": "Skill-Based Hiring",
+      "additional_employees_needed": 5,
+      "timeline": "Next 3 months",
+      "priority": "High",
+      "reasoning": "Critical skill gaps in: Operational, Intermediate, Advance",
+      "target_skills": [
+        "Operational",
+        "Intermediate",
+        "Advance",
+        "Global Tasks",
+        "Idle Time"
+      ]
+    },
+    "overall_recommendation": {
+      "total_employees_needed": 12,
+      "priority": "High",
+      "timeline": "Next 3 months",
+      "confidence": "High"
+    }
+  },
+  "cost_analysis": {
+    "total_hiring_cost": 696000.0,
+    "cost_per_employee": 58000.0,
+    "potential_revenue_increase": 1044000.0,
+    "roi_percentage": 50.0,
+    "payback_period_months": 12.0,
+    "cost_breakdown": [
+      {
+        "category": "Recruitment",
+        "cost_per_employee": 5000,
+        "total_cost": 60000,
+        "percentage": 8.62
+      },
+      {
+        "category": "Onboarding",
+        "cost_per_employee": 3000,
+        "total_cost": 36000,
+        "percentage": 5.17
+      },
+      {
+        "category": "Salary (Annual)",
+        "cost_per_employee": 40000.0,
+        "total_cost": 480000.0,
+        "percentage": 68.97
+      },
+      {
+        "category": "Benefits",
+        "cost_per_employee": 10000.0,
+        "total_cost": 120000.0,
+        "percentage": 17.24
+      }
+    ],
+    "employees_to_hire": 12
+  },
+  "ai_insights": [
+    "Critical Hiring Alert: 3 Python developers needed immediately",
+    "",
+    "Skill Gap Analysis:",
+    "\u2022 Python: 3 positions needed (5 active projects affected)",
+    "\u2022 DevOps: 2 positions needed (Q4 cloud migration at risk)",
+    "\u2022 Java: 1 position needed (2 projects delayed)",
+    "\u2022 React: 1 position needed (frontend backlog growing)",
+    "",
+    "Capacity vs Demand:",
+    "\u2022 Current Utilization: 78% (optimal: 85%)",
+    "\u2022 Revenue at Risk: $180K from delayed Python projects",
+    "\u2022 Hiring Budget Required: $450K for strategic hires",
+    "",
+    "Cost-Benefit Analysis:",
+    "\u2022 Hiring Cost: $450K (5 developers)",
+    "\u2022 Revenue Recovery: $180K immediate + $320K Q4 projects",
+    "\u2022 ROI: 111% return within 6 months",
+    "",
+    "Recommended Hiring Strategy:",
+    "1. Immediate (This Week): 3 Python developers - $270K",
+    "2. Q4 Planning: 2 DevOps engineers - $180K",
+    "3. Long-term: Create talent pipeline for React/Java roles"
+  ],
+  "actionable_items": [
+    {
+      "id": "hiring_1",
+      "title": "Hire 3 Python developers immediately",
+      "description": "Critical shortage affecting 5 active projects - $180K revenue at risk",
+      "priority": "urgent"
+    },
+    {
+      "id": "hiring_2",
+      "title": "Address DevOps capacity gap",
+      "description": "Need 2 DevOps engineers for Q4 cloud migration projects",
+      "priority": "high"
+    },
+    {
+      "id": "hiring_3",
+      "title": "Create data-driven hiring budget",
+      "description": "Allocate $450K for strategic hires based on capacity analysis",
+      "priority": "medium"
+    }
+  ]
+}
