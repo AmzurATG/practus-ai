@@ -15,7 +15,7 @@ export default function Chat() {
   const loadSuggestions = async () => {
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:8000/api/chat/suggestions', {
+      const response = await fetch('http://localhost:8080/api/chat/suggestions', {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const data = await response.json();
@@ -31,7 +31,7 @@ export default function Chat() {
 
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:8000/api/chat/query', {
+      const response = await fetch('http://localhost:8080/api/chat/query', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

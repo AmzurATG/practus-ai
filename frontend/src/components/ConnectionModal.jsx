@@ -43,7 +43,7 @@ const ConnectionModal = ({ isOpen, onClose, onSuccess }) => {
       // Make actual connection request
       setProgress(85)
       const token = localStorage.getItem('token')
-      const response = await axios.post('http://localhost:8000/api/datasource/connect', {}, {
+      const response = await axios.post('http://localhost:8080/api/datasource/connect', {}, {
         headers: { 'Authorization': `Bearer ${token}` }
       })
 

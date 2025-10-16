@@ -50,7 +50,7 @@ npm install
 npm run dev
 ```
 
-Frontend runs on http://localhost:3000
+Frontend runs on http://localhost:3030
 
 ## 🔐 Login Credentials
 - Username: `admin`

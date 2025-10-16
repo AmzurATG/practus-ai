@@ -5,7 +5,7 @@
     "avg_sales_cycle_days": 198.0,
     "top_bottleneck": "Prospect \u2192 Client Won (0.2% conversion)",
     "stuck_deals_count": 20,
-    "total_stuck_value": 144094000.0,
+    "total_stuck_value": 146794000.0,
     "analysis_methods": {
       "conversion_analysis": "Statistical Funnel Analysis",
       "duration_analysis": "Time Series Analysis with Percentiles",
@@ -151,222 +151,222 @@
     "able_count": 820,
     "aging_distribution": {
       "fresh_0_7_days": 0,
-      "warm_8_30_days": 137,
-      "cold_31_90_days": 482,
+      "warm_8_30_days": 111,
+      "cold_31_90_days": 508,
       "stale_91_180_days": 618,
       "dead_180_plus_days": 5404
     },
     "revenue_by_age": {
       "fresh_revenue": 0.0,
-      "warm_revenue": 54448002.0,
-      "cold_revenue": 351449605.0,
+      "warm_revenue": 44498002.0,
+      "cold_revenue": 361399605.0,
       "stale_revenue": 529987683.5,
       "dead_revenue": 3760759546.5
     },
     "total_revenue_at_risk": 4696644837.0,
-    "average_lead_age": 333.0,
+    "average_lead_age": 334.0,
     "top_contactable_leads": [
       {
         "Deal ID": 655193000004759387,
         "Deal Amount": 50000000.0,
-        "Lead_Age_Days": 236
+        "Lead_Age_Days": 237
       },
       {
         "Deal ID": 655193000004759304,
         "Deal Amount": 50000000.0,
-        "Lead_Age_Days": 236
+        "Lead_Age_Days": 237
       },
       {
         "Deal ID": 655193000004259026,
         "Deal Amount": 10000000.0,
-        "Lead_Age_Days": 259
+        "Lead_Age_Days": 260
       },
       {
         "Deal ID": 655193000003054025,
         "Deal Amount": 7500000.0,
-        "Lead_Age_Days": 343
+        "Lead_Age_Days": 344
       },
       {
         "Deal ID": 655193000002907139,
         "Deal Amount": 7500000.0,
-        "Lead_Age_Days": 359
+        "Lead_Age_Days": 360
       },
       {
         "Deal ID": 655193000003618788,
         "Deal Amount": 7200000.0,
-        "Lead_Age_Days": 296
+        "Lead_Age_Days": 297
       },
       {
         "Deal ID": 655193000005509017,
         "Deal Amount": 6700000.0,
-        "Lead_Age_Days": 197
+        "Lead_Age_Days": 198
       },
       {
         "Deal ID": 655193000005451004,
         "Deal Amount": 6000000.0,
-        "Lead_Age_Days": 202
+        "Lead_Age_Days": 203
       },
       {
         "Deal ID": 655193000003618975,
         "Deal Amount": 6000000.0,
-        "Lead_Age_Days": 296
+        "Lead_Age_Days": 297
       },
       {
         "Deal ID": 655193000003317997,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 231
+        "Lead_Age_Days": 232
       },
       {
         "Deal ID": 655193000004981109,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 228
+        "Lead_Age_Days": 229
       },
       {
         "Deal ID": 655193000004596026,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 244
+        "Lead_Age_Days": 245
       },
       {
         "Deal ID": 655193000004135199,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 268
+        "Lead_Age_Days": 269
       },
       {
         "Deal ID": 655193000003955024,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 278
+        "Lead_Age_Days": 279
       },
       {
         "Deal ID": 655193000003317027,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 320
+        "Lead_Age_Days": 321
       },
       {
         "Deal ID": 655193000003317997,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 320
+        "Lead_Age_Days": 321
       },
       {
         "Deal ID": 655193000004544008,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 250
+        "Lead_Age_Days": 251
       },
       {
         "Deal ID": 655193000006703117,
         "Deal Amount": 4800000.0,
-        "Lead_Age_Days": 121
+        "Lead_Age_Days": 122
       },
       {
         "Deal ID": 655193000003838069,
         "Deal Amount": 4500000.0,
-        "Lead_Age_Days": 285
+        "Lead_Age_Days": 286
       },
       {
         "Deal ID": 655193000006612366,
         "Deal Amount": 4200000.0,
-        "Lead_Age_Days": 128
+        "Lead_Age_Days": 129
       }
     ],
     "top_stuck_leads": [
       {
         "Deal ID": 655193000004759387,
         "Deal Amount": 50000000.0,
-        "Lead_Age_Days": 236
+        "Lead_Age_Days": 237
       },
       {
         "Deal ID": 655193000004759304,
         "Deal Amount": 50000000.0,
-        "Lead_Age_Days": 236
+        "Lead_Age_Days": 237
       },
       {
         "Deal ID": 655193000004259026,
         "Deal Amount": 10000000.0,
-        "Lead_Age_Days": 259
+        "Lead_Age_Days": 260
       },
       {
         "Deal ID": 655193000003054025,
         "Deal Amount": 7500000.0,
-        "Lead_Age_Days": 343
+        "Lead_Age_Days": 344
       },
       {
         "Deal ID": 655193000002907139,
         "Deal Amount": 7500000.0,
-        "Lead_Age_Days": 359
+        "Lead_Age_Days": 360
       },
       {
         "Deal ID": 655193000003618788,
         "Deal Amount": 7200000.0,
-        "Lead_Age_Days": 296
+        "Lead_Age_Days": 297
       },
       {
         "Deal ID": 655193000005509017,
         "Deal Amount": 6700000.0,
-        "Lead_Age_Days": 197
+        "Lead_Age_Days": 198
       },
       {
         "Deal ID": 655193000003618975,
         "Deal Amount": 6000000.0,
-        "Lead_Age_Days": 296
+        "Lead_Age_Days": 297
       },
       {
         "Deal ID": 655193000005451004,
         "Deal Amount": 6000000.0,
-        "Lead_Age_Days": 202
+        "Lead_Age_Days": 203
       },
       {
         "Deal ID": 655193000004596026,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 244
+        "Lead_Age_Days": 245
       },
       {
         "Deal ID": 655193000004135199,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 268
+        "Lead_Age_Days": 269
       },
       {
         "Deal ID": 655193000003955024,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 278
+        "Lead_Age_Days": 279
       },
       {
         "Deal ID": 655193000003317027,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 320
+        "Lead_Age_Days": 321
       },
       {
         "Deal ID": 655193000003317997,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 320
+        "Lead_Age_Days": 321
       },
       {
         "Deal ID": 655193000004544008,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 250
+        "Lead_Age_Days": 251
       },
       {
         "Deal ID": 655193000004981109,
         "Deal Amount": 5000000.0,
-        "Lead_Age_Days": 228
+        "Lead_Age_Days": 229
       },
       {
         "Deal ID": 655193000006703117,
         "Deal Amount": 4800000.0,
-        "Lead_Age_Days": 121
+        "Lead_Age_Days": 122
       },
       {
         "Deal ID": 655193000003838069,
         "Deal Amount": 4500000.0,
-        "Lead_Age_Days": 285
+        "Lead_Age_Days": 286
       },
       {
         "Deal ID": 655193000002720245,
         "Deal Amount": 4200000.0,
-        "Lead_Age_Days": 376
+        "Lead_Age_Days": 377
       },
       {
         "Deal ID": 655193000007129352,
         "Deal Amount": 4000000.0,
-        "Lead_Age_Days": 87
+        "Lead_Age_Days": 88
       }
     ]
   },

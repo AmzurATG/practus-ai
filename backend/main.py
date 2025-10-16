@@ -40,7 +40,7 @@ load_dotenv()
 
 # Configuration
 SECRET_KEY = os.getenv("SECRET_KEY", "practus-secret-key-change-in-production")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyDBvJS0vbk4fT-ov3hSOsOoIONxFomrGOk")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "practus-gemini-key-change-in-production")
 UPLOAD_DIR = "uploads"
 
 # Supabase Configuration
@@ -207,7 +207,7 @@ async def startup_event():
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["http://localhost:3030", "http://127.0.0.1:3030"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -2812,5 +2812,5 @@ def _get_automation_fallback_items() -> list:
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8080)
 
