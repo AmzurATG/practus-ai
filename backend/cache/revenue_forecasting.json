@@ -16,13 +16,13 @@
       {
         "id": 655193000007409199,
         "amount": 1900000.0,
-        "days_stuck": 52,
+        "days_stuck": 53,
         "stage": "Proposal Sent"
       },
       {
         "id": 655193000006686009,
         "amount": 375000.0,
-        "days_stuck": 59,
+        "days_stuck": 60,
         "stage": "Proposal Sent"
       },
       {
@@ -34,13 +34,13 @@
       {
         "id": 655193000002437551,
         "amount": 500000.0,
-        "days_stuck": 379,
+        "days_stuck": 380,
         "stage": "Lead - Able to Contact"
       },
       {
         "id": 655193000002437545,
         "amount": 500000.0,
-        "days_stuck": 379,
+        "days_stuck": 380,
         "stage": "Lead - Able to Contact"
       }
     ],
@@ -59,7 +59,7 @@
     }
   },
   "ai_insights": [
-    "Critical Finding: 15 deals worth $139.2M stuck in pipeline for 216+ days on average",
+    "Critical Finding: 15 deals worth $139.2M stuck in pipeline for 217+ days on average",
     "",
     "Why this matters:",
     "\u2022 Historical data shows deals stuck >30 days have 62% higher loss rate",
@@ -79,7 +79,7 @@
     {
       "client": "Client-65519300",
       "value": 50000000,
-      "days_stuck": 237,
+      "days_stuck": 238,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Lead - Able to Contact",
@@ -88,7 +88,7 @@
     {
       "client": "Client-65519300",
       "value": 50000000,
-      "days_stuck": 237,
+      "days_stuck": 238,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Lead - Able to Contact",
@@ -97,7 +97,7 @@
     {
       "client": "Client-65519300",
       "value": 5229000,
-      "days_stuck": 97,
+      "days_stuck": 98,
       "contact": "Contact-655193",
       "expectation": "Detailed technical requirements and implementation timeline",
       "stage": "Qualified Prospect",
@@ -106,7 +106,7 @@
     {
       "client": "Client-65519300",
       "value": 5000000,
-      "days_stuck": 232,
+      "days_stuck": 233,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Prospect",
@@ -115,7 +115,7 @@
     {
       "client": "Client-65519300",
       "value": 4200000,
-      "days_stuck": 31,
+      "days_stuck": 32,
       "contact": "Contact-655193",
       "expectation": "Enterprise solution with custom integration and 24/7 support",
       "stage": "Proposal Sent",
@@ -124,7 +124,7 @@
     {
       "client": "Client-65519300",
       "value": 3315000,
-      "days_stuck": 102,
+      "days_stuck": 103,
       "contact": "Contact-655193",
       "expectation": "Detailed technical requirements and implementation timeline",
       "stage": "Qualified Prospect",
@@ -133,7 +133,7 @@
     {
       "client": "Client-65519300",
       "value": 3200000,
-      "days_stuck": 67,
+      "days_stuck": 68,
       "contact": "Contact-655193",
       "expectation": "Enterprise solution with custom integration and 24/7 support",
       "stage": "Proposal Sent",
@@ -142,7 +142,7 @@
     {
       "client": "Client-65519300",
       "value": 3000000,
-      "days_stuck": 232,
+      "days_stuck": 233,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Prospect",
@@ -151,7 +151,7 @@
     {
       "client": "Client-65519300",
       "value": 2400000,
-      "days_stuck": 86,
+      "days_stuck": 87,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Need Identification",
@@ -160,7 +160,7 @@
     {
       "client": "Client-65519300",
       "value": 2400000,
-      "days_stuck": 122,
+      "days_stuck": 123,
       "contact": "Contact-655193",
       "expectation": "Detailed technical requirements and implementation timeline",
       "stage": "Qualified Prospect",
@@ -169,7 +169,7 @@
     {
       "client": "Client-65519300",
       "value": 2400000,
-      "days_stuck": 122,
+      "days_stuck": 123,
       "contact": "Contact-655193",
       "expectation": "Detailed technical requirements and implementation timeline",
       "stage": "Qualified Prospect",
@@ -178,7 +178,7 @@
     {
       "client": "Client-65519300",
       "value": 2250000,
-      "days_stuck": 489,
+      "days_stuck": 490,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Prospect",
@@ -187,7 +187,7 @@
     {
       "client": "Client-65519300",
       "value": 2000000,
-      "days_stuck": 489,
+      "days_stuck": 490,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Prospect",
@@ -196,7 +196,7 @@
     {
       "client": "Client-65519300",
       "value": 2000000,
-      "days_stuck": 209,
+      "days_stuck": 210,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Prospect",
@@ -205,7 +205,7 @@
     {
       "client": "Client-65519300",
       "value": 1800000,
-      "days_stuck": 489,
+      "days_stuck": 490,
       "contact": "Contact-655193",
       "expectation": "Initial consultation and solution evaluation",
       "stage": "Prospect",

@@ -1409,17 +1409,6 @@
           "Efficiency_Score": "Low"
         },
         {
-          "EmployeeCode": 0.0,
-          "Total_Hours": 0.0,
-          "Project_Count": 0.0,
-          "Idle_Entries": 0.0,
-          "Idle_Percentage": 0.0,
-          "Resource Code": "WAPL-MC-C0177",
-          "Avg_Allocation": 50.0,
-          "Allocated_Projects": 2.0,
-          "Efficiency_Score": "Low"
-        },
-        {
           "EmployeeCode": "WAPL-MC-C0182",
           "Total_Hours": 1998.0,
           "Project_Count": 6.0,
@@ -3134,6 +3123,17 @@
           "Avg_Allocation": 100.0,
           "Allocated_Projects": 1.0,
           "Efficiency_Score": "High"
+        },
+        {
+          "EmployeeCode": 0.0,
+          "Total_Hours": 0.0,
+          "Project_Count": 0.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0177",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
+          "Efficiency_Score": "Low"
         }
       ],
       "high_efficiency": [
@@ -4284,17 +4284,6 @@
           "Efficiency_Score": "Low"
         },
         {
-          "EmployeeCode": 0.0,
-          "Total_Hours": 0.0,
-          "Project_Count": 0.0,
-          "Idle_Entries": 0.0,
-          "Idle_Percentage": 0.0,
-          "Resource Code": "WAPL-MC-C0177",
-          "Avg_Allocation": 50.0,
-          "Allocated_Projects": 2.0,
-          "Efficiency_Score": "Low"
-        },
-        {
           "EmployeeCode": "WAPL-MC-C0182",
           "Total_Hours": 1998.0,
           "Project_Count": 6.0,
@@ -4908,6 +4897,17 @@
           "Resource Code": "WAPL-MC-E0674",
           "Avg_Allocation": 100.0,
           "Allocated_Projects": 1.0,
+          "Efficiency_Score": "Low"
+        },
+        {
+          "EmployeeCode": 0.0,
+          "Total_Hours": 0.0,
+          "Project_Count": 0.0,
+          "Idle_Entries": 0.0,
+          "Idle_Percentage": 0.0,
+          "Resource Code": "WAPL-MC-C0177",
+          "Avg_Allocation": 50.0,
+          "Allocated_Projects": 2.0,
           "Efficiency_Score": "Low"
         }
       ],
