@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import Layout from '../components/Layout';
 import ChatInterface from '../components/ChatInterface';
 import SuggestedQuestions from '../components/SuggestedQuestions';
+import { getApiUrl } from '../config/api';
 
 export default function Chat() {
   const [messages, setMessages] = useState([]);
@@ -15,7 +16,7 @@ export default function Chat() {
   const loadSuggestions = async () => {
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:8080/api/chat/suggestions', {
+      const response = await fetch(getApiUrl('/api/chat/suggestions'), {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const data = await response.json();
@@ -31,7 +32,7 @@ export default function Chat() {
 
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:8080/api/chat/query', {
+      const response = await fetch(getApiUrl('/api/chat/query'), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

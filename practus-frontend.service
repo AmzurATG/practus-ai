@@ -1,0 +1,18 @@
+[Unit]
+Description=Practus AI Frontend Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/GIT_REPOSITORIES/Practus-ai/practus-ai/frontend
+Environment="PATH=/usr/local/bin:/usr/bin:/bin"
+ExecStart=/usr/bin/npm run dev -- --host 0.0.0.0 --port 3030
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=practus-frontend
+
+[Install]
+WantedBy=multi-user.target

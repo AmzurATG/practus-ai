@@ -5,8 +5,8 @@
     "high_value_clients": 791,
     "repeat_business_rate": 0.56,
     "avg_time_between_deals": 16.4,
-    "avg_retention_score": 20.72,
-    "avg_churn_risk": 79.28,
+    "avg_retention_score": 20.71,
+    "avg_churn_risk": 79.29,
     "top_at_risk_clients": [
       {
         "Client_Name": "1",

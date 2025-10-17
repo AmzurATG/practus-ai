@@ -11,7 +11,7 @@
     "pipeline_value": 248270550.5,
     "pipeline_count": 194,
     "avg_deal_size": 1279745.105670103,
-    "stuck_deals_count": 185,
+    "stuck_deals_count": 187,
     "stuck_deals": [
       {
         "id": 655193000007409199,
@@ -28,7 +28,7 @@
       {
         "id": 655193000005198239,
         "amount": 30000.0,
-        "days_stuck": 31,
+        "days_stuck": 32,
         "stage": "Proposal Sent"
       },
       {

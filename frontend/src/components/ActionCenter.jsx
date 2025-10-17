@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { getApiUrl } from '../config/api';
 
 export default function ActionCenter() {
   const [actions, setActions] = useState([]);
@@ -11,7 +12,7 @@ export default function ActionCenter() {
   const loadActions = async () => {
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:8080/api/actions/recommended', {
+      const response = await fetch(getApiUrl('/api/actions/recommended'), {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const data = await response.json();
@@ -26,7 +27,7 @@ export default function ActionCenter() {
   const executeAction = async (actionId) => {
     try {
       const token = localStorage.getItem('token');
-      await fetch(`http://localhost:8080/api/actions/execute`, {
+      await fetch(getApiUrl('/api/actions/execute'), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
