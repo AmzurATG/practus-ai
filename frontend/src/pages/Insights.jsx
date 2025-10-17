@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { TrendingUp, Target, BarChart3, Users, Briefcase, Zap, CheckCircle, Clock, AlertTriangle, AlertCircle, TrendingDown, DollarSign, Activity, Loader2, Cpu, Layers, Star, PieChart, ChevronDown, ChevronUp, Mail } from 'lucide-react'
 import toast from 'react-hot-toast'
+import { getApiUrl } from '../config/api'
 
 // AI Insights Formatting Component
 const formatAIInsights = (insights) => {
@@ -189,7 +190,7 @@ export default function ActionableItems() {
     setError(null)
     try {
       const token = localStorage.getItem('token')
-      const response = await fetch(`http://localhost:8080/api/actionable-items/problem/${problemId}`, {
+      const response = await fetch(getApiUrl(`/api/actionable-items/problem/${problemId}`), {
         headers: { 'Authorization': `Bearer ${token}` }
       })
       

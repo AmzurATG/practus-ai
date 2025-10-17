@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { X, CheckCircle, AlertCircle, Database, Loader2 } from 'lucide-react'
 import axios from 'axios'
+import { getApiUrl } from '../config/api'
 
 const ConnectionModal = ({ isOpen, onClose, onSuccess }) => {
   const [connectionStatus, setConnectionStatus] = useState('connecting') // connecting, success, error
@@ -43,7 +44,7 @@ const ConnectionModal = ({ isOpen, onClose, onSuccess }) => {
       // Make actual connection request
       setProgress(85)
       const token = localStorage.getItem('token')
-      const response = await axios.post('http://localhost:8080/api/datasource/connect', {}, {
+      const response = await axios.post(getApiUrl('/api/datasource/connect'), {}, {
         headers: { 'Authorization': `Bearer ${token}` }
       })
 

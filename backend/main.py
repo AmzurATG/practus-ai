@@ -207,10 +207,19 @@ async def startup_event():
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3030", "http://127.0.0.1:3030"],
+    allow_origins=[
+        "http://localhost:3030",
+        "http://127.0.0.1:3030",
+        "http://localhost:3000",
+        "https://practus-ai.amzur.com",
+        "http://practus-ai.amzur.com",
+        "https://216.48.184.189",
+        "http://216.48.184.189"
+    ],
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS", "HEAD", "PATCH"],
     allow_headers=["*"],
+    expose_headers=["*"]
 )
 
 # Request logging middleware

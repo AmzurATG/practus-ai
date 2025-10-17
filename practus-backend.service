@@ -1,0 +1,18 @@
+[Unit]
+Description=Practus AI Backend Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/GIT_REPOSITORIES/Practus-ai/practus-ai/backend
+Environment="PATH=/root/GIT_REPOSITORIES/Practus-ai/practus-ai/.venv/bin:/usr/local/bin:/usr/bin:/bin"
+ExecStart=/root/GIT_REPOSITORIES/Practus-ai/practus-ai/.venv/bin/python main.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=practus-backend
+
+[Install]
+WantedBy=multi-user.target
