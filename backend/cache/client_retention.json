@@ -5,13 +5,13 @@
     "high_value_clients": 791,
     "repeat_business_rate": 0.56,
     "avg_time_between_deals": 16.4,
-    "avg_retention_score": 20.71,
-    "avg_churn_risk": 79.29,
+    "avg_retention_score": 20.69,
+    "avg_churn_risk": 79.31,
     "top_at_risk_clients": [
       {
         "Client_Name": "1",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -19,7 +19,7 @@
       {
         "Client_Name": "10",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -27,7 +27,7 @@
       {
         "Client_Name": "100",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -35,7 +35,7 @@
       {
         "Client_Name": "1000",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "ITES"
@@ -43,7 +43,7 @@
       {
         "Client_Name": "101",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -51,7 +51,7 @@
       {
         "Client_Name": "102",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -59,7 +59,7 @@
       {
         "Client_Name": "103",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -67,7 +67,7 @@
       {
         "Client_Name": "104",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 461,
+        "Days_Since_Last_Activity": 462,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -75,7 +75,7 @@
       {
         "Client_Name": "1047",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 393,
+        "Days_Since_Last_Activity": 394,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -83,7 +83,7 @@
       {
         "Client_Name": "1048",
         "Churn_Risk_Score": 90.0,
-        "Days_Since_Last_Activity": 393,
+        "Days_Since_Last_Activity": 394,
         "Deal_Count": 1,
         "Total_Revenue": 0.0,
         "Industry_Type": "IT SAAS"
@@ -94,7 +94,7 @@
     {
       "Client_Name": "1",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -102,7 +102,7 @@
     {
       "Client_Name": "10",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -110,7 +110,7 @@
     {
       "Client_Name": "100",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -118,7 +118,7 @@
     {
       "Client_Name": "1000",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "ITES"
@@ -126,7 +126,7 @@
     {
       "Client_Name": "101",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -134,7 +134,7 @@
     {
       "Client_Name": "102",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -142,7 +142,7 @@
     {
       "Client_Name": "103",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -150,7 +150,7 @@
     {
       "Client_Name": "104",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 461,
+      "Days_Since_Last_Activity": 462,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -158,7 +158,7 @@
     {
       "Client_Name": "1047",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 393,
+      "Days_Since_Last_Activity": 394,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
@@ -166,7 +166,7 @@
     {
       "Client_Name": "1048",
       "Churn_Risk_Score": 90.0,
-      "Days_Since_Last_Activity": 393,
+      "Days_Since_Last_Activity": 394,
       "Deal_Count": 1,
       "Total_Revenue": 0.0,
       "Industry_Type": "IT SAAS"
